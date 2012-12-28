@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Event Espresso package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2012-12-03 15:27-0700\n"
+"PO-Revision-Date: 2012-12-28 12:30-0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -5484,71 +5484,71 @@ msgstr "Unable to Activate Electronic Funds Transfers"
 
 #: ../../../event-espresso/trunk/gateways/bank/settings.php:71
 msgid "Electronic Funds Transfers Payments De-activated"
-msgstr ""
+msgstr "Electronic Funds Transfers Payments De-activated"
 
 #: ../../../event-espresso/trunk/gateways/bank/settings.php:73
 msgid "Unable to De-activate Electronic Funds Transfers"
-msgstr ""
+msgstr "Unable to De-activate Electronic Funds Transfers"
 
 #: ../gateways/bank/settings.php:63
 #: ../../../event-espresso/trunk/gateways/bank/settings.php:81
 msgid "Activate Electronic Funds Transfers?"
-msgstr ""
+msgstr "Activate Electronic Funds Transfers?"
 
 #: ../gateways/bank/settings.php:60
 #: ../../../event-espresso/trunk/gateways/bank/settings.php:85
 msgid "Deactivate Electronic Funds Transfers?"
-msgstr ""
+msgstr "Deactivate Electronic Funds Transfers?"
 
 #: ../../../event-espresso/trunk/gateways/bank/settings.php:112
 #: ../../../event-espresso/trunk/gateways/Bank (1)/EE_Bank.class.php:76
 msgid "Page Title"
-msgstr ""
+msgstr "Page Title"
 
 #: ../gateways/bank/settings.php:90 ../gateways/check/settings.php:87
 #: ../../../event-espresso/trunk/gateways/bank/settings.php:118
 #: ../../../event-espresso/trunk/gateways/Bank (1)/EE_Bank.class.php:82
 msgid "Payment Instructions"
-msgstr ""
+msgstr "Payment Instructions"
 
 #: ../gateways/bank/settings.php:98
 #: ../../../event-espresso/trunk/gateways/bank/settings.php:124
 #: ../../../event-espresso/trunk/gateways/Bank (1)/EE_Bank.class.php:88
 msgid "Name on Account"
-msgstr ""
+msgstr "Name on Account"
 
 #: ../gateways/bank/settings.php:104
 #: ../../../event-espresso/trunk/gateways/bank/settings.php:130
 #: ../../../event-espresso/trunk/gateways/Bank (1)/EE_Bank.class.php:94
 msgid "Bank Account #"
-msgstr ""
+msgstr "Bank Account #"
 
 #: ../gateways/bank/settings.php:110
 #: ../../../event-espresso/trunk/gateways/bank/settings.php:136
 #: ../../../event-espresso/trunk/gateways/Bank (1)/EE_Bank.class.php:100
 msgid "Bank Name"
-msgstr ""
+msgstr "Bank Name"
 
 #: ../gateways/bank/settings.php:116
 #: ../../../event-espresso/trunk/gateways/bank/settings.php:142
 #: ../../../event-espresso/trunk/gateways/Bank (1)/EE_Bank.class.php:106
 msgid "Bank Address"
-msgstr ""
+msgstr "Bank Address"
 
 #: ../gateways/bank/settings.php:125
 #: ../../../event-espresso/trunk/gateways/bank/settings.php:168
 msgid "Update Electronic Funds Transfer Settings"
-msgstr ""
+msgstr "Update Electronic Funds Transfer Settings"
 
 #: ../gateways/check/check_payment_vars.php:44
 #: ../../../event-espresso/trunk/gateways/Check (1)/EE_Check.class.php:117
 msgid "Payable to:"
-msgstr ""
+msgstr "Payable to:"
 
 #: ../gateways/check/check_payment_vars.php:48
 #: ../../../event-espresso/trunk/gateways/Check (1)/EE_Check.class.php:120
 msgid "Payment Address: "
-msgstr ""
+msgstr "Payment Address: "
 
 #: ../../../event-espresso/trunk/gateways/paytrace/settings.php:15
 msgid "Check Payment Settings Updated!"
@@ -5593,11 +5593,11 @@ msgstr "Deactivate Cheque/Money Order Payments?"
 #: ../../../event-espresso/trunk/templates/widget.php:198
 #: ../../../espresso-calendar/trunk/espresso-calendar.php:910
 msgid "Title:"
-msgstr ""
+msgstr "Title:"
 
 #: ../../../event-espresso/trunk/gateways/Check (1)/EE_Check.class.php:81
 msgid "Payment Instructions:"
-msgstr ""
+msgstr "Payment Instructions:"
 
 #: ../../../event-espresso/trunk/gateways/Check (1)/EE_Check.class.php:84
 msgid "Payable To:"
@@ -6080,31 +6080,31 @@ msgstr "Deactivate iDEAL (Mollie)?"
 
 #: ../../../event-espresso/trunk/gateways/ideal/settings.php:97
 msgid "iDEAL (Mollie) partner id"
-msgstr ""
+msgstr "iDEAL (Mollie) partner ID"
 
 #: ../../../event-espresso/trunk/gateways/ideal/settings.php:105
 msgid "Use Mollie in test mode"
-msgstr ""
+msgstr "Use Mollie in test mode"
 
 #: ../gateways/ideal/settings.php:89
 #: ../../../event-espresso/trunk/gateways/ideal/settings.php:109
 msgid "(Make sure you enable test mode in your Mollie account)."
-msgstr ""
+msgstr "(Make sure you enable test mode in your Mollie account)."
 
 #: ../../../event-espresso/trunk/gateways/ideal/settings.php:117
 msgid "Update Settings"
-msgstr ""
+msgstr "Update Settings"
 
 #: ../gateways/invoice/invoice_vars.php:30 ../includes/functions/email.php:280
 #: ../../../event-espresso/trunk/gateways/Invoice/EE_Invoice.class.php:247
 #: ../../../event-espresso/trunk/includes/functions/email.php:277
 msgid "Download PDF Invoice"
-msgstr ""
+msgstr "Download PDF Invoice"
 
 #: ../gateways/invoice/settings.php:27 ../gateways/invoice/settings.php:28
 #: ../../../event-espresso/trunk/gateways/Invoice/EE_Invoice.class.php:57
 msgid "Invoice Payments"
-msgstr ""
+msgstr "Invoice Payments"
 
 #: ../gateways/invoice/settings.php:29
 #: ../../../event-espresso/trunk/gateways/Invoice/EE_Invoice.class.php:58
@@ -6113,6 +6113,9 @@ msgid ""
 "the payment link below. Payment must be received within 48 hours of event "
 "date."
 msgstr ""
+"Please send this invoice with payment attached to the address above, or use "
+"the payment link below. Payment must be received within 48 hours of event "
+"date."
 
 #: ../gateways/invoice/settings.php:30
 #: ../../../event-espresso/trunk/gateways/Invoice/EE_Invoice.class.php:59
@@ -6120,37 +6123,39 @@ msgid ""
 "Please send Invoice to the address below. Payment must be received within 48 "
 "hours of event date."
 msgstr ""
+"Please send Invoice to the address below. Payment must be received within 48 "
+"hours of event date."
 
 #: ../gateways/invoice/settings.php:54
 msgid "Invoice Payment Settings"
-msgstr ""
+msgstr "Invoice Payment Settings"
 
 #: ../gateways/invoice/settings.php:72
 msgid "Activate Invoice Payments?"
-msgstr ""
+msgstr "Activate Invoice Payments?"
 
 #: ../gateways/invoice/settings.php:69
 msgid "Deactivate Invoice Payments?"
-msgstr ""
+msgstr "De-activate Invoice Payments?"
 
 #: ../gateways/invoice/settings.php:143
 #: ../../../event-espresso/trunk/gateways/Invoice/EE_Invoice.class.php:87
 msgid "Show as an option on the payment page?"
-msgstr ""
+msgstr "Show as an option on the payment page?"
 
 #: ../../../event-espresso/trunk/gateways/Invoice/EE_Invoice.class.php:96
 msgid "Invoice Title"
-msgstr ""
+msgstr "Invoice Title"
 
 #: ../gateways/invoice/settings.php:100
 #: ../../../event-espresso/trunk/gateways/Invoice/EE_Invoice.class.php:104
 msgid "Invoice Instructions"
-msgstr ""
+msgstr "Invoice Instructions"
 
 #: ../gateways/check/settings.php:92 ../gateways/invoice/settings.php:106
 #: ../../../event-espresso/trunk/gateways/Invoice/EE_Invoice.class.php:114
 msgid "Payable To"
-msgstr ""
+msgstr "Payable To"
 
 #: ../gateways/check/settings.php:95 ../gateways/invoice/settings.php:112
 #: ../../../event-espresso/trunk/gateways/Invoice/EE_Invoice.class.php:122
@@ -6296,45 +6301,45 @@ msgstr "Activate Merchant Warrior IPN?"
 #: ../gateways/mwarrior/settings.php:70
 #: ../../../event-espresso/trunk/gateways/mwarrior/settings.php:94
 msgid "Deactivate Merchant Warrior IPN?"
-msgstr ""
+msgstr "Deactivate Merchant Warrior IPN?"
 
 #: ../gateways/mwarrior/settings.php:95
 #: ../../../event-espresso/trunk/gateways/mwarrior/settings.php:120
 msgid "MW Merchant UUID"
-msgstr ""
+msgstr "MW Merchant UUID"
 
 #: ../gateways/mwarrior/settings.php:101
 #: ../../../event-espresso/trunk/gateways/mwarrior/settings.php:127
 msgid "MW API Key"
-msgstr ""
+msgstr "MW API Key"
 
 #: ../gateways/mwarrior/settings.php:107
 #: ../../../event-espresso/trunk/gateways/mwarrior/settings.php:134
 msgid "MW API Passphrase"
-msgstr ""
+msgstr "MW API Passphrase"
 
 #: ../../../event-espresso/trunk/gateways/mwarrior/settings.php:180
 msgid "Image URL (logo for payment page): "
-msgstr ""
+msgstr "Image URL (logo for payment page): "
 
 #: ../gateways/mwarrior/settings.php:148
 #: ../../../event-espresso/trunk/gateways/mwarrior/settings.php:185
 msgid "(used for your business/personal logo on the Merchant Warrior page)"
-msgstr ""
+msgstr "(used for your business/personal logo on the Merchant Warrior page)"
 
 #: ../../../event-espresso/trunk/gateways/mwarrior/settings.php:202
 msgid "Use the Test Mode for Merchant Warrior? "
-msgstr ""
+msgstr "Use the Test Mode for Merchant Warrior? "
 
 #: ../gateways/mwarrior/settings.php:189
 #: ../../../event-espresso/trunk/gateways/mwarrior/settings.php:217
 msgid "Update Merchant Warrior Settings"
-msgstr ""
+msgstr "Update Merchant Warrior Settings"
 
 #: ../gateways/mwarrior/settings.php:193
 #: ../../../event-espresso/trunk/gateways/mwarrior/settings.php:222
 msgid "Merchant Warrior Test Mode"
-msgstr ""
+msgstr "Merchant Warrior Test Mode"
 
 #: ../gateways/mwarrior/settings.php:194
 #: ../../../event-espresso/trunk/gateways/mwarrior/settings.php:223
@@ -6343,11 +6348,14 @@ msgid ""
 "This allows you to test your entire integration before submitting "
 "transactions to the live Merchant Warrior environment. "
 msgstr ""
+"Test Mode allows you to submit test transactions to the payment gateway. "
+"This allows you to test your entire integration before submitting "
+"transactions to the live Merchant Warrior environment. "
 
 #: ../gateways/mwarrior/settings.php:198
 #: ../../../event-espresso/trunk/gateways/mwarrior/settings.php:227
 msgid "Merchant Warrior Image URL (logo for payment page)"
-msgstr ""
+msgstr "Merchant Warrior Image URL (logo for payment page)"
 
 #: ../gateways/mwarrior/settings.php:201
 #: ../../../event-espresso/trunk/gateways/mwarrior/settings.php:230
@@ -6355,11 +6363,13 @@ msgid ""
 "The URL of the image displayed as your logo in the header of the Merchant "
 "Warrior checkout pages."
 msgstr ""
+"The URL of the image displayed as your logo in the header of the Merchant "
+"Warrior checkout pages."
 
 #: ../gateways/mwarrior/settings.php:205
 #: ../../../event-espresso/trunk/gateways/mwarrior/settings.php:234
 msgid "Merchant Warrior Currency"
-msgstr ""
+msgstr "Merchant Warrior Currency"
 
 #: ../gateways/mwarrior/settings.php:206
 #: ../../../event-espresso/trunk/gateways/mwarrior/settings.php:235
@@ -6370,10 +6380,15 @@ msgid ""
 "the currency you wish to use. The dropdown lists all currencies that "
 "Merchant Warrior (currently) supports."
 msgstr ""
+"Merchant Warrior uses 3-character ISO-4217 codes for specifying currencies "
+"in fields and variables. </p><p>The default currency code is Australian "
+"Dollars (AUD). If you want to accept payments in other currencies, select "
+"the currency you wish to use. The dropdown lists all currencies that "
+"Merchant Warrior (currently) supports."
 
 #: ../../../event-espresso/trunk/gateways/nab/settings.php:16
 msgid "NAB Transact Direct Post Settings Updated!"
-msgstr ""
+msgstr "NAB Transact Direct Post Settings Updated!"
 
 #: ../../../event-espresso/trunk/gateways/nab/settings.php:18
 msgid "NAB Transact Direct Post Settings were not saved! "
@@ -6652,63 +6667,63 @@ msgstr "Activate Paytrace?"
 
 #: ../../../event-espresso/trunk/gateways/paytrace/settings.php:72
 msgid "Deactivate Paytrace?"
-msgstr ""
+msgstr "Deactivate Paytrace?"
 
 #: ../../../event-espresso/trunk/gateways/paytrace/settings.php:98
 msgid "Paytrace User ID:"
-msgstr ""
+msgstr "Paytrace User ID:"
 
 #: ../../../event-espresso/trunk/gateways/paytrace/settings.php:105
 msgid "Paytrace User Password:"
-msgstr ""
+msgstr "Paytrace User Password:"
 
 #: ../../../event-espresso/trunk/gateways/paytrace/settings.php:115
 msgid "Update Paytrace Settings"
-msgstr ""
+msgstr "Update Paytrace Settings"
 
 #: ../../../event-espresso/trunk/gateways/quickpay/settings.php:18
 msgid "Quickpay Settings Updated!"
-msgstr ""
+msgstr "Quickpay Settings Updated!"
 
 #: ../../../event-espresso/trunk/gateways/quickpay/settings.php:20
 msgid "Quickpay Settings were not saved! "
-msgstr ""
+msgstr "Quickpay Settings were not saved! "
 
 #: ../../../event-espresso/trunk/gateways/quickpay/settings.php:50
 msgid "Quickpay Settings"
-msgstr ""
+msgstr "Quickpay Settings"
 
 #: ../../../event-espresso/trunk/gateways/quickpay/settings.php:58
 msgid "Quickpay Activated"
-msgstr ""
+msgstr "Quickpay Activated"
 
 #: ../../../event-espresso/trunk/gateways/quickpay/settings.php:60
 msgid "Unable to Activate Quickpay"
-msgstr ""
+msgstr "Unable to Activate Quickpay"
 
 #: ../../../event-espresso/trunk/gateways/quickpay/settings.php:67
 msgid "Quickpay De-activated"
-msgstr ""
+msgstr "Quickpay De-activated"
 
 #: ../../../event-espresso/trunk/gateways/quickpay/settings.php:69
 msgid "Unable to De-activate Quickpay"
-msgstr ""
+msgstr "Unable to De-activate Quickpay"
 
 #: ../../../event-espresso/trunk/gateways/quickpay/settings.php:75
 msgid "Activate quickpay IPN?"
-msgstr ""
+msgstr "Activate Quickpay IPN?"
 
 #: ../../../event-espresso/trunk/gateways/quickpay/settings.php:78
 msgid "Deactivate quickpay IPN?"
-msgstr ""
+msgstr "De-activate Quickpay IPN?"
 
 #: ../../../event-espresso/trunk/gateways/quickpay/settings.php:111
 msgid "quickpay md5 secret:"
-msgstr ""
+msgstr "Quickpay md5 secret:"
 
 #: ../../../event-espresso/trunk/gateways/quickpay/settings.php:165
 msgid "Update quickpay Settings"
-msgstr ""
+msgstr "Update Quickpay Settings"
 
 #: ../../../event-espresso/trunk/gateways/realauth/settings.php:21
 msgid "realauth Payment Settings Updated!"
@@ -6795,61 +6810,66 @@ msgid ""
 "you wish to use. The dropdown lists all currencies that Realauth (currently) "
 "supports."
 msgstr ""
+"Realauth uses 3-character ISO-4217 codes for specifying currencies in fields "
+"and variables. </p><p>The default currency code is US Dollars (USD). If you "
+"want to require or accept payments in other currencies, select the currency "
+"you wish to use. The dropdown lists all currencies that Realauth (currently) "
+"supports."
 
 #: ../gateways/stripe/stripe_vars.php:98
 #: ../../../event-espresso/trunk/gateways/stripe/payment.php:72
 msgid "CVC Code"
-msgstr ""
+msgstr "CVC Code"
 
 #: ../gateways/stripe/settings.php:15
 #: ../../../event-espresso/trunk/gateways/stripe/settings.php:14
 msgid "Stripe settings saved."
-msgstr ""
+msgstr "Stripe settings saved."
 
 #: ../gateways/stripe/settings.php:44
 #: ../../../event-espresso/trunk/gateways/stripe/settings.php:22
 msgid "Stripe Settings"
-msgstr ""
+msgstr "Stripe Settings"
 
 #: ../gateways/stripe/settings.php:62
 #: ../../../event-espresso/trunk/gateways/stripe/settings.php:41
 msgid "Activate Stripe?"
-msgstr ""
+msgstr "Activate Stripe?"
 
 #: ../gateways/stripe/settings.php:59
 #: ../../../event-espresso/trunk/gateways/stripe/settings.php:44
 msgid "Deactivate Stripe?"
-msgstr ""
+msgstr "De-activate Stripe?"
 
 #: ../../../event-espresso/trunk/gateways/stripe/settings.php:49
 msgid "The Stripe addon is installed. Would you like to activate it?"
-msgstr ""
+msgstr "The Stripe addon is installed. Would you like to activate it?"
 
 #: ../../../event-espresso/trunk/gateways/stripe/settings.php:73
 #: ../../../event-espresso/trunk/gateways/Stripe (1)/EE_Stripe.class.php:76
 msgid "Stripe Secret Key:"
-msgstr ""
+msgstr "Stripe Secret Key:"
 
 #: ../../../event-espresso/trunk/gateways/stripe/settings.php:80
 #: ../../../event-espresso/trunk/gateways/Stripe (1)/EE_Stripe.class.php:83
 msgid "Stripe Publishable Key:"
-msgstr ""
+msgstr "Stripe Publishable Key:"
 
 #: ../../../event-espresso/trunk/gateways/stripe/settings.php:87
 #: ../../../event-espresso/trunk/gateways/Stripe (1)/EE_Stripe.class.php:90
 msgid "Stripe Currency Symbol (usd):"
-msgstr ""
+msgstr "Stripe Currency Symbol (USD):"
 
 #: ../gateways/stripe/settings.php:137
 #: ../../../event-espresso/trunk/gateways/stripe/settings.php:107
 msgid "Update Stripe Settings"
-msgstr ""
+msgstr "Update Stripe Settings"
 
 #: ../gateways/stripe/settings.php:142
 #: ../../../event-espresso/trunk/gateways/stripe/settings.php:112
 #: ../../../event-espresso/trunk/gateways/Stripe (1)/EE_Stripe.class.php:125
 msgid "Stripe Currency Symbol"
-msgstr ""
+msgstr "Stripe Currency Symbol"
 
 #: ../gateways/stripe/settings.php:145
 #: ../../../event-espresso/trunk/gateways/stripe/settings.php:115
@@ -6860,12 +6880,16 @@ msgid ""
 "code> here.  Stripe currently only takes payment in USD, but can accept "
 "payments from any currency which will be converted to USD at checkout."
 msgstr ""
+"Stripe uses 3-character ISO-4217 codes for specifying currencies in fields "
+"and variables.  If you are taking purchases in US Dollars, enter <code>usd</"
+"code> here.  Stripe currently only takes payment in USD, but can accept "
+"payments from any currency which will be converted to USD at checkout."
 
 #: ../gateways/stripe/settings.php:84 ../gateways/stripe/settings.php:150
 #: ../../../event-espresso/trunk/gateways/stripe/settings.php:120
 #: ../../../event-espresso/trunk/gateways/Stripe (1)/EE_Stripe.class.php:133
 msgid "Stripe Secret Key"
-msgstr ""
+msgstr "Stripe Secret Key"
 
 #: ../gateways/stripe/settings.php:153
 #: ../../../event-espresso/trunk/gateways/stripe/settings.php:123
@@ -6875,6 +6899,9 @@ msgid ""
 "\"_blank\">Secret Key</a> here.  If you are testing the Stripe gateway, use "
 "your Test Secret Key, otherwise use your Live Secret Key."
 msgstr ""
+"Enter your <a href=\"https://manage.stripe.com/#account/apikeys\" target="
+"\"_blank\">Secret Key</a> here.  If you are testing the Stripe gateway, use "
+"your Test Secret Key, otherwise use your Live Secret Key."
 
 #: ../gateways/stripe/settings.php:156 ../gateways/stripe/settings.php:167
 #: ../../../event-espresso/trunk/gateways/stripe/settings.php:126
@@ -6958,23 +6985,23 @@ msgstr "(used for your business/personal logo on the Worldpay page)"
 
 #: ../../../event-espresso/trunk/gateways/worldpay/settings.php:139
 msgid "Select the currency for your country:"
-msgstr ""
+msgstr "Select the currency for your country:"
 
 #: ../../../event-espresso/trunk/gateways/worldpay/settings.php:232
 msgid "worldpay Notes:"
-msgstr ""
+msgstr "WorldPay Notes:"
 
 #: ../../../event-espresso/trunk/gateways/worldpay/settings.php:232
 msgid "For worldpay IPN to work, you need a Business or Premier account."
-msgstr ""
+msgstr "For WorldPay IPN to work, you need a Business or Premier account."
 
 #: ../../../event-espresso/trunk/gateways/worldpay/settings.php:239
 msgid "Update worldpay Settings"
-msgstr ""
+msgstr "Update WorldPay Settings"
 
 #: ../../../event-espresso/trunk/gateways/worldpay/settings.php:245
 msgid "worldpay Sandbox"
-msgstr ""
+msgstr "WorldPay Sandbox"
 
 #: ../../../event-espresso/trunk/gateways/worldpay/settings.php:246
 msgid ""
@@ -6994,20 +7021,27 @@ msgid ""
 "the live worldpay environment. Create and manage test accounts, and view "
 "emails and API credentials for those test accounts."
 msgstr ""
+"The WorldPay Sandbox is a testing environment that is a duplicate of the "
+"live WorldPay site, except that no real money changes hands. The Sandbox "
+"allows you to test your entire integration before submitting transactions to "
+"the live WorldPay environment. Create and manage test accounts, and view "
+"emails and API credentials for those test accounts."
 
 #: ../../../event-espresso/trunk/gateways/worldpay/settings.php:253
 msgid "worldpay Image URL (logo for payment page)"
-msgstr ""
+msgstr "WorldPay Image URL (logo for payment page)"
 
 #: ../../../event-espresso/trunk/gateways/worldpay/settings.php:256
 msgid ""
 "The URL of the 150x50-pixel image displayed as your logo in the upper left "
 "corner of the worldpay checkout pages."
 msgstr ""
+"The URL of the 150x50-pixel image displayed as your logo in the upper left "
+"corner of the WorldPay checkout pages."
 
 #: ../../../event-espresso/trunk/gateways/worldpay/settings.php:264
 msgid "worldpay Currency"
-msgstr ""
+msgstr "WorldPay Currency"
 
 #: ../../../event-espresso/trunk/gateways/worldpay/settings.php:265
 msgid ""
@@ -7017,10 +7051,15 @@ msgid ""
 "you wish to use. The dropdown lists all currencies that worldpay (currently) "
 "supports."
 msgstr ""
+"WorldPay uses 3-character ISO-4217 codes for specifying currencies in fields "
+"and variables. </p><p>The default currency code is US Dollars (USD). If you "
+"want to require or accept payments in other currencies, select the currency "
+"you wish to use. The dropdown lists all currencies that WorldPay (currently) "
+"supports."
 
 #: ../../../event-espresso/trunk/includes/help_global.php:14
 msgid "Default Payment Status Options"
-msgstr ""
+msgstr "Default Payment Status Options"
 
 #: ../includes/admin-files/admin_reports_filters.php:64
 #: ../includes/admin-reports/enter_attendee_payments.php:427
@@ -7034,7 +7073,7 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/functions/wp_hooks.php:244
 #: ../../../event-espresso/trunk/includes/functions/wp_hooks.php:296
 msgid "Incomplete"
-msgstr ""
+msgstr "Incomplete"
 
 #: ../../../event-espresso/trunk/includes/help_global.php:16
 msgid ""
@@ -7046,6 +7085,13 @@ msgid ""
 "card processing gateway active and are using the Invoice gateway, the status "
 "will change to Pending when the user downloads the invoice."
 msgstr ""
+"This is the default payment status.  While Incomplete is set as the default, "
+"all attendee information is recorded when they register, but those "
+"registrations do not count against the total number of available spaces.  "
+"That changes when an IPN message is sent from the payment gateway or the "
+"payment status for that attendee is updated manually.  If you have no credit "
+"card processing gateway active and are using the Invoice gateway, the status "
+"will change to Pending when the user downloads the invoice."
 
 #: ../includes/admin-files/admin_reports_filters.php:64
 #: ../includes/admin-files/admin_reports_filters.php:84
@@ -7067,7 +7113,7 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/functions/wp_hooks.php:257
 #: ../../../event-espresso/trunk/includes/functions/wp_hooks.php:309
 msgid "Pending"
-msgstr ""
+msgstr "Pending"
 
 #: ../../../event-espresso/trunk/includes/help_global.php:19
 msgid ""
@@ -7077,6 +7123,11 @@ msgid ""
 "indicating that they have paid (since that would need to be recorded "
 "manually)."
 msgstr ""
+"This means the attendee has not paid, but they do have a space reserved for "
+"them in the event.  When a user downloads an invoice, their payment status "
+"changes from Incomplete to Pending, reserving a space for them but not "
+"indicating that they have paid (since that would need to be recorded "
+"manually)."
 
 #: ../../../event-espresso/trunk/includes/help_global.php:21
 msgid "Complete"
@@ -7489,29 +7540,29 @@ msgstr "Search Events"
 #: ../includes/admin-files/custom_post_type.php:16
 #: ../../../event-espresso/trunk/includes/admin-files/custom_post_type.php:16
 msgid "No events found"
-msgstr ""
+msgstr "No events found"
 
 #: ../includes/admin-files/custom_post_type.php:17
 #: ../../../event-espresso/trunk/includes/admin-files/custom_post_type.php:17
 msgid "No events found in Trash"
-msgstr ""
+msgstr "No events found in Trash"
 
 #: ../includes/admin-files/custom_post_type.php:18
 #: ../../../event-espresso/trunk/includes/admin-files/custom_post_type.php:18
 msgid "Parent Event"
-msgstr ""
+msgstr "Parent Event"
 
 #: ../includes/admin-files/custom_post_type.php:21
 #: ../../../event-espresso/trunk/includes/admin-files/custom_post_type.php:21
 msgid "Event Thumbnail"
-msgstr ""
+msgstr "Event Thumbnail"
 
 #: ../includes/admin-files/dashboard_widget.php:19
 #: ../includes/admin-reports/process_payments.php:21
 #: ../includes/event-management/event_list.php:26
 #: ../includes/event-management/event_list.php:42
 msgid "Event(s) have been permanently deleted."
-msgstr ""
+msgstr "Event(s) have been permanently deleted."
 
 #: ../includes/admin-files/dashboard_widget.php:31
 #: ../includes/admin-files/coupon-management/index.php:54
@@ -7554,7 +7605,7 @@ msgstr ""
 #: ../../../espresso-seating/trunk/template/create_seating_chart.php:54
 #: ../../../espresso-seating/trunk/template/edit_seating_chart.php:67
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
 #: ../includes/admin-files/dashboard_widget.php:32
 #: ../includes/functions/email.php:197 ../templates/shopping_cart.php:60
@@ -7562,7 +7613,7 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/functions/email.php:208
 #: ../../../event-espresso/trunk/templates/ticket_selector/ticket_selector_chart.template.php:53
 msgid "Date"
-msgstr ""
+msgstr "Date"
 
 #: ../includes/admin-files/dashboard_widget.php:33
 #: ../includes/admin-reports/process_payments.php:62
@@ -7570,7 +7621,7 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin-files/dashboard_widget.php:32
 #: ../../../event-espresso/trunk/includes/admin_screens/events/event_list.php:250
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: ../includes/admin-files/admin_reports_filters.php:23
 #: ../includes/admin-files/dashboard_widget.php:34
@@ -7585,7 +7636,7 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin_screens/events/event_list.php:336
 #: ../../../event-espresso/trunk/templates/reg_page_checkout/confirmation_page.template.php:9
 msgid "Attendees"
-msgstr ""
+msgstr "Attendees"
 
 #: ../includes/admin-files/dashboard_widget.php:66
 #: ../../../event-espresso/trunk/includes/admin-files/dashboard_widget.php:65
@@ -7622,14 +7673,14 @@ msgstr "today's events"
 #: ../../../espresso-permissions/trunk/includes/default-roles.php:107
 #: ../../../espresso-permissions/trunk/includes/default-roles.php:151
 msgid "Delete"
-msgstr ""
+msgstr "Delete"
 
 #: ../includes/admin-files/dashboard_widget.php:96
 #: ../includes/event-management/event_list.php:336
 #: ../../../event-espresso/trunk/includes/admin-files/dashboard_widget.php:101
 #: ../../../event-espresso/trunk/includes/admin_screens/events/event_list.php:338
 msgid "Export"
-msgstr ""
+msgstr "Export"
 
 #: ../includes/admin-files/dashboard_widget.php:116
 #: ../includes/admin-files/coupon-management/index.php:118
@@ -7655,7 +7706,7 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin_screens/events/event_list.php:607
 #: ../../../espresso-ticketing/trunk/manager/index.php:154
 msgid "Live Search Filter"
-msgstr ""
+msgstr "Live Search Filter"
 
 #: ../includes/admin-files/dashboard_widget.php:117
 #: ../includes/admin-files/coupon-management/index.php:119
@@ -7681,19 +7732,19 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin_screens/events/event_list.php:608
 #: ../../../espresso-ticketing/trunk/manager/index.php:155
 msgid "No Records Found!"
-msgstr ""
+msgstr "No Records Found!"
 
 #: ../includes/admin-files/dashboard_widget.php:143
 #: ../templates/widget.php:175
 #: ../../../event-espresso/trunk/includes/admin-files/dashboard_widget.php:147
 #: ../../../event-espresso/trunk/templates/widget.php:184
 msgid "Upcoming Events"
-msgstr ""
+msgstr "Upcoming Events"
 
 #: ../includes/admin-files/event_newsletter.php:35
 #: ../../../event-espresso/trunk/includes/admin-files/event_newsletter.php:36
 msgid "Send an Email to the Attendees of"
-msgstr ""
+msgstr "Send an Email to the Attendees of"
 
 #: ../includes/admin-files/event_newsletter.php:38
 #: ../../../event-espresso/trunk/includes/admin-files/event_newsletter.php:39
@@ -7806,23 +7857,23 @@ msgstr ""
 #: ../includes/admin-files/functions.php:122
 #: ../../../event-espresso/trunk/includes/admin-files/functions.php:75
 msgid "To use this venue in a page or post. Use the following shortcode."
-msgstr ""
+msgstr "To use this venue in a page or post. Use the following shortcode."
 
 #: ../../../event-espresso/trunk/includes/admin-files/functions.php:117
 msgid "Select from Email Manager list"
-msgstr ""
+msgstr "Select from Email Manager list"
 
 #: ../includes/admin-files/functions.php:194
 #: ../includes/admin-files/staff-management/index.php:9
 #: ../../../event-espresso/trunk/includes/admin-files/functions.php:195
 #: ../../../event-espresso/trunk/includes/admin-files/staff-management/index.php:128
 msgid "Manage Staff Members"
-msgstr ""
+msgstr "Manage Staff Members"
 
 #: ../includes/admin-files/functions.php:197
 #: ../../../event-espresso/trunk/includes/admin-files/functions.php:199
 msgid "Staff Shortcode"
-msgstr ""
+msgstr "Staff Shortcode"
 
 #: ../includes/admin-files/functions.php:198
 #: ../../../event-espresso/trunk/includes/admin-files/functions.php:200
@@ -7830,41 +7881,43 @@ msgid ""
 "Add the following shortcode into the description to show the staff for this "
 "event."
 msgstr ""
+"Add the following shortcode into the description to show the staff for this "
+"event."
 
 #: ../includes/admin-files/functions.php:210
 #: ../../../event-espresso/trunk/includes/admin-files/functions.php:212
 msgid "Please add at least one person."
-msgstr ""
+msgstr "Please add at least one person."
 
 #: ../includes/admin-files/functions.php:227
 #: ../../../event-espresso/trunk/includes/admin-files/functions.php:233
 msgid "Select a Person"
-msgstr ""
+msgstr "Select a Person"
 
 #: ../includes/admin-files/functions.php:236
 #: ../../../event-espresso/trunk/includes/admin-files/functions.php:242
 msgid "Primary"
-msgstr ""
+msgstr "Primary"
 
 #: ../includes/admin-files/functions.php:248
 #: ../../../event-espresso/trunk/includes/admin-files/functions.php:257
 msgid "Total Registrations/Transactions"
-msgstr ""
+msgstr "Total Registrations/Transactions"
 
 #: ../includes/admin-files/functions.php:254
 #: ../../../event-espresso/trunk/includes/admin-files/functions.php:263
 msgid "Completed Registrations/Transactions"
-msgstr ""
+msgstr "Completed Registrations/Transactions"
 
 #: ../includes/admin-files/functions.php:260
 #: ../../../event-espresso/trunk/includes/admin-files/functions.php:269
 msgid "Pending Registrations/Transactions"
-msgstr ""
+msgstr "Pending Registrations/Transactions"
 
 #: ../includes/admin-files/functions.php:266
 #: ../../../event-espresso/trunk/includes/admin-files/functions.php:275
 msgid "Incomplete Registrations/Transactions"
-msgstr ""
+msgstr "Incomplete Registrations/Transactions"
 
 #: ../includes/admin-files/functions.php:311
 #: ../includes/admin-files/coupon-management/index.php:58
@@ -7879,12 +7932,12 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin_screens/events/event_functions.php:757
 #: ../../../event-espresso/trunk/includes/admin_screens/pricing/postboxes.php:72
 msgid "Amount"
-msgstr ""
+msgstr "Amount"
 
 #: ../includes/admin-files/functions.php:355
 #: ../../../event-espresso/trunk/includes/admin-files/functions.php:366
 msgid "Using Event Meta boxes"
-msgstr ""
+msgstr "Using Event Meta boxes"
 
 #: ../gateways/usaepay_offsite/settings.php:79
 #: ../gateways/usaepay_onsite/settings.php:88
@@ -7893,7 +7946,7 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin-files/functions.php:412
 #: ../../../event-espresso/trunk/includes/admin-files/functions.php:433
 msgid "Key"
-msgstr ""
+msgstr "Key"
 
 #: ../includes/admin-files/functions.php:377
 #: ../includes/admin-files/functions.php:386
@@ -8009,7 +8062,7 @@ msgstr ""
 #: ../includes/admin-files/gateway_developer.php:41
 #: ../../../event-espresso/trunk/includes/admin-files/gateway_developer.php:50
 msgid "Your gateway files have not been moved."
-msgstr ""
+msgstr "Your gateway files have not been moved."
 
 #: ../includes/admin-files/gateway_developer.php:44
 #: ../includes/admin-files/template_settings/template_files.php:101
@@ -8019,25 +8072,27 @@ msgid ""
 "In order to use this this feature, you will need to move the files located "
 "in the"
 msgstr ""
+"In order to use this this feature, you will need to move the files located "
+"in the"
 
 #: ../includes/admin-files/gateway_developer.php:44
 #: ../includes/admin-files/template_settings/template_files.php:101
 #: ../../../event-espresso/trunk/includes/admin-files/gateway_developer.php:53
 #: ../../../event-espresso/trunk/includes/admin-files/templates/template_files.php:137
 msgid "directory into the"
-msgstr ""
+msgstr "directory into the"
 
 #: ../includes/admin-files/gateway_developer.php:44
 #: ../includes/admin-files/template_settings/template_files.php:101
 #: ../../../event-espresso/trunk/includes/admin-files/gateway_developer.php:53
 #: ../../../event-espresso/trunk/includes/admin-files/templates/template_files.php:139
 msgid "directory"
-msgstr ""
+msgstr "directory"
 
 #: ../includes/admin-files/gateway_developer.php:47
 #: ../../../event-espresso/trunk/includes/admin-files/gateway_developer.php:56
 msgid "The permissions on your gateways directory are incorrect."
-msgstr ""
+msgstr "The permissions on your gateways directory are incorrect."
 
 #: ../includes/admin-files/gateway_developer.php:50
 #: ../includes/admin-files/template_settings/template_files.php:107
@@ -8047,21 +8102,23 @@ msgid ""
 "To move your files automatically, please set the permissions to 775 on the "
 "following directory."
 msgstr ""
+"To move your files automatically, please set the permissions to 775 on the "
+"following directory."
 
 #: ../includes/admin-files/gateway_developer.php:57
 #: ../includes/admin-files/template_settings/template_files.php:122
 #: ../../../event-espresso/trunk/includes/admin-files/gateway_developer.php:66
 msgid "Click here to <a href='%s'>Move your files</a> to a safe place."
-msgstr ""
+msgstr "Click here to <a href='%s'>Move your files</a> to a safe place."
 
 #: ../includes/functions/admin_menu.php:78
 #: ../../../event-espresso/trunk/includes/admin-files/optional_event_settings.php:47
 msgid "Payment Settings"
-msgstr ""
+msgstr "Payment Settings"
 
 #: ../../../event-espresso/trunk/includes/admin-files/optional_event_settings.php:53
 msgid " Default Payment Status"
-msgstr ""
+msgstr " Default Payment Status"
 
 #: ../../../event-espresso/trunk/includes/admin-files/optional_event_settings.php:57
 msgid ""
@@ -8069,23 +8126,28 @@ msgid ""
 "<br />\n"
 "until payment is made, for each event."
 msgstr ""
+"This value will be automatically filled in for each person's payment status,"
+"<br />\n"
+"until payment is made, for each event."
 
 #: ../../../event-espresso/trunk/includes/admin-files/optional_event_settings.php:63
 msgid "Default Surcharge"
-msgstr ""
+msgstr "Default Surcharge"
 
 #: ../../../event-espresso/trunk/includes/admin-files/optional_event_settings.php:68
 msgid ""
 "This value will be automatically filled in for each price type when creating "
 "an event."
 msgstr ""
+"This value will be automatically filled in for each price type when creating "
+"an event."
 
 #: ../includes/event-management/event_functions.php:113
 #: ../includes/event-management/event_functions.php:149
 #: ../includes/event-management/event_functions.php:183
 #: ../../../event-espresso/trunk/includes/admin-files/optional_event_settings.php:72
 msgid "Surcharge Type"
-msgstr ""
+msgstr "Surcharge Type"
 
 #: ../includes/admin-files/optional_event_settings.php:27
 #: ../includes/event-management/event_functions.php:117
@@ -8093,7 +8155,7 @@ msgstr ""
 #: ../includes/event-management/event_functions.php:183
 #: ../../../event-espresso/trunk/includes/admin-files/optional_event_settings.php:75
 msgid "Flat Rate"
-msgstr ""
+msgstr "Flat Rate"
 
 #: ../includes/admin-files/optional_event_settings.php:30
 #: ../includes/event-management/event_functions.php:120
@@ -8101,7 +8163,7 @@ msgstr ""
 #: ../includes/event-management/event_functions.php:183
 #: ../../../event-espresso/trunk/includes/admin-files/optional_event_settings.php:78
 msgid "Percent"
-msgstr ""
+msgstr "Percent"
 
 #: ../../../event-espresso/trunk/includes/admin-files/optional_event_settings.php:84
 msgid "Surcharge Display Text"
@@ -8189,10 +8251,12 @@ msgid ""
 "This function is experimental and may not function as expected.<br />\n"
 "You will need adjust your attendee limit accordingly."
 msgstr ""
+"This function is experimental and may not function as expected.<br />\n"
+"You will need adjust your attendee limit accordingly."
 
 #: ../../../event-espresso/trunk/includes/admin-files/optional_event_settings.php:175
 msgid "Custom Time Zone for Each Event"
-msgstr ""
+msgstr "Custom Time Zone for Each Event"
 
 #: ../../../event-espresso/trunk/includes/admin-files/optional_event_settings.php:179
 msgid ""
@@ -8204,52 +8268,52 @@ msgstr ""
 
 #: ../../../event-espresso/trunk/includes/admin-files/optional_event_settings.php:184
 msgid "Debug/Logging Options"
-msgstr ""
+msgstr "Debug/Logging Options"
 
 #: ../../../event-espresso/trunk/includes/admin-files/optional_event_settings.php:189
 msgid "Enable Full Logging"
-msgstr ""
+msgstr "Enable Full Logging"
 
 #: ../../../event-espresso/trunk/includes/admin-files/optional_event_settings.php:195
 msgid "Enable Remote Logging"
-msgstr ""
+msgstr "Enable Remote Logging"
 
 #: ../../../event-espresso/trunk/includes/admin-files/optional_event_settings.php:199
 msgid "Send debugging data to the remote URL below."
-msgstr ""
+msgstr "Send debugging data to the remote URL below."
 
 #: ../../../event-espresso/trunk/includes/admin-files/optional_event_settings.php:204
 #: ../../../event-espresso/trunk/includes/admin_screens/organization_config_help.php:134
 msgid "Remote Logging URL"
-msgstr ""
+msgstr "Remote Logging URL"
 
 #: ../../../event-espresso/trunk/includes/admin-files/optional_event_settings.php:208
 msgid "Example: http://www.postbin.org/MY_UNIQUE_ID"
-msgstr ""
+msgstr "Example: http://www.postbin.org/MY_UNIQUE_ID"
 
 #: ../../../event-espresso/trunk/includes/admin-files/optional_event_settings.php:214
 msgid "Promote Event Espresso"
-msgstr ""
+msgstr "Promote Event Espresso"
 
 #: ../../../event-espresso/trunk/includes/admin-files/optional_event_settings.php:219
 msgid "Link to Event Espresso in your Registration Page"
-msgstr ""
+msgstr "Link to Event Espresso in your Registration Page"
 
 #: ../../../event-espresso/trunk/includes/admin-files/optional_event_settings.php:225
 msgid "Event Espresso Affiliate ID"
-msgstr ""
+msgstr "Event Espresso Affiliate ID"
 
 #: ../../../event-espresso/trunk/includes/admin-files/optional_event_settings.php:229
 msgid "Earn cash for promoting our plugin."
-msgstr ""
+msgstr "Earn cash for promoting our plugin."
 
 #: ../../../event-espresso/trunk/includes/admin-files/optional_event_settings.php:234
 msgid "Your Event Espresso License Key"
-msgstr ""
+msgstr "Your Event Espresso License Key"
 
 #: ../../../event-espresso/trunk/includes/admin-files/optional_event_settings.php:239
 msgid "Support License Key"
-msgstr ""
+msgstr "Support License Key"
 
 #: ../../../event-espresso/trunk/includes/admin-files/optional_event_settings.php:245
 msgid ""
@@ -8257,6 +8321,9 @@ msgid ""
 "notifications <br />\n"
 "and backend updates for Event Espresso Core and any installed addons."
 msgstr ""
+"Adding a valid Support License Key will enable automatic update "
+"notifications <br />\n"
+"and backend updates for Event Espresso Core and any installed addons."
 
 #: ../includes/organization_config.php:240
 #: ../includes/organization_config.php:400
@@ -8273,125 +8340,125 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin_screens/organization_config.php:539
 #: ../../../event-espresso/trunk/includes/admin_screens/organization_config.php:593
 msgid "Save Options"
-msgstr ""
+msgstr "Save Options"
 
 #: ../../../event-espresso/trunk/includes/admin-files/recaptcha_form.php:12
 msgid "Anti-spam Settings"
-msgstr ""
+msgstr "Anti-spam Settings"
 
 #: ../includes/organization_config.php:582
 #: ../includes/admin-files/recaptcha_form.php:8
 #: ../../../event-espresso/trunk/includes/admin-files/recaptcha_form.php:18
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_screen.php:52
 msgid "reCAPTCHA Settings"
-msgstr ""
+msgstr "reCAPTCHA Settings"
 
 #: ../../../event-espresso/trunk/includes/admin-files/recaptcha_form.php:24
 msgid "Use reCAPTCHA"
-msgstr ""
+msgstr "Use reCAPTCHA"
 
 #: ../../../event-espresso/trunk/includes/admin-files/recaptcha_form.php:28
 msgid "Used to block spam registrations."
-msgstr ""
+msgstr "Used to block spam registrations."
 
 #: ../../../event-espresso/trunk/includes/admin-files/recaptcha_form.php:33
 msgid "Public Key"
-msgstr ""
+msgstr "Public Key"
 
 #: ../../../event-espresso/trunk/includes/admin-files/recaptcha_form.php:39
 msgid "Private Key"
-msgstr ""
+msgstr "Private Key"
 
 #: ../../../event-espresso/trunk/includes/admin-files/recaptcha_form.php:45
 msgid "reCAPTCHA Look &amp; Feel"
-msgstr ""
+msgstr "reCAPTCHA Look &amp; Feel"
 
 #: ../../../event-espresso/trunk/includes/admin-files/recaptcha_form.php:50
 msgid "Width"
-msgstr ""
+msgstr "Width"
 
 #: ../../../event-espresso/trunk/includes/admin-files/recaptcha_form.php:56
 msgid "Theme"
-msgstr ""
+msgstr "Theme"
 
 #: ../includes/admin-files/recaptcha_form.php:54
 #: ../../../event-espresso/trunk/includes/admin-files/recaptcha_form.php:60
 msgid "Red"
-msgstr ""
+msgstr "Red"
 
 #: ../includes/admin-files/recaptcha_form.php:55
 #: ../../../event-espresso/trunk/includes/admin-files/recaptcha_form.php:61
 msgid "White"
-msgstr ""
+msgstr "White"
 
 #: ../includes/admin-files/recaptcha_form.php:56
 #: ../../../event-espresso/trunk/includes/admin-files/recaptcha_form.php:62
 msgid "Blackglass"
-msgstr ""
+msgstr "Blackglass"
 
 #: ../includes/admin-files/recaptcha_form.php:57
 #: ../../../event-espresso/trunk/includes/admin-files/recaptcha_form.php:63
 msgid "Clean"
-msgstr ""
+msgstr "Clean"
 
 #: ../../../event-espresso/trunk/includes/admin-files/recaptcha_form.php:70
 msgid "Language"
-msgstr ""
+msgstr "Language"
 
 #: ../includes/admin-files/recaptcha_form.php:67
 #: ../../../event-espresso/trunk/includes/admin-files/recaptcha_form.php:74
 #: ../../../espresso-social/trunk/social_admin.php:252
 #: ../../../espresso-social/trunk/social_admin_classic.php:213
 msgid "English"
-msgstr ""
+msgstr "English"
 
 #: ../includes/admin-files/recaptcha_form.php:68
 #: ../../../event-espresso/trunk/includes/admin-files/recaptcha_form.php:75
 #: ../../../espresso-social/trunk/social_admin.php:257
 #: ../../../espresso-social/trunk/social_admin_classic.php:218
 msgid "Spanish"
-msgstr ""
+msgstr "Spanish"
 
 #: ../includes/admin-files/recaptcha_form.php:69
 #: ../../../event-espresso/trunk/includes/admin-files/recaptcha_form.php:76
 #: ../../../espresso-social/trunk/social_admin.php:254
 #: ../../../espresso-social/trunk/social_admin_classic.php:215
 msgid "Dutch"
-msgstr ""
+msgstr "Dutch"
 
 #: ../includes/admin-files/recaptcha_form.php:70
 #: ../../../event-espresso/trunk/includes/admin-files/recaptcha_form.php:77
 #: ../../../espresso-social/trunk/social_admin.php:255
 #: ../../../espresso-social/trunk/social_admin_classic.php:216
 msgid "French"
-msgstr ""
+msgstr "French"
 
 #: ../includes/admin-files/recaptcha_form.php:71
 #: ../../../event-espresso/trunk/includes/admin-files/recaptcha_form.php:78
 #: ../../../espresso-social/trunk/social_admin.php:256
 #: ../../../espresso-social/trunk/social_admin_classic.php:217
 msgid "German"
-msgstr ""
+msgstr "German"
 
 #: ../includes/admin-files/recaptcha_form.php:72
 #: ../../../event-espresso/trunk/includes/admin-files/recaptcha_form.php:79
 msgid "Portuguese"
-msgstr ""
+msgstr "Portuguese"
 
 #: ../includes/admin-files/recaptcha_form.php:73
 #: ../../../event-espresso/trunk/includes/admin-files/recaptcha_form.php:80
 msgid "Russian"
-msgstr ""
+msgstr "Russian"
 
 #: ../includes/admin-files/recaptcha_form.php:74
 #: ../../../event-espresso/trunk/includes/admin-files/recaptcha_form.php:81
 msgid "Turkish"
-msgstr ""
+msgstr "Turkish"
 
 #: ../includes/admin-files/admin_addons.php:9
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/admin_addons.php:14
 msgid "Manage Addons"
-msgstr ""
+msgstr "Manage Addons"
 
 #: ../includes/admin-files/admin_addons.php:22
 #: ../includes/admin-files/admin_addons.php:46
@@ -8400,12 +8467,12 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/admin_addons.php:60
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/admin_addons.php:82
 msgid "Installed"
-msgstr ""
+msgstr "Installed"
 
 #: ../includes/admin-files/admin_addons.php:40
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/admin_addons.php:54
 msgid "About Groupon"
-msgstr ""
+msgstr "About Groupon"
 
 #: ../includes/admin-files/admin_addons.php:89
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/admin_addons.php:98
@@ -8425,7 +8492,7 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/admin_addons.php:101
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/admin_addons.php:102
 msgid " - Installed"
-msgstr ""
+msgstr " - Installed"
 
 #: ../includes/admin-files/admin_addons.php:91
 #: ../includes/admin-files/admin_addons.php:92
@@ -8434,17 +8501,17 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/admin_addons.php:101
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/admin_addons.php:102
 msgid " - Not Installed"
-msgstr ""
+msgstr " - Not Installed"
 
 #: ../includes/admin-files/coupon-management/index.php:8
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/coupon_management.php:146
 msgid "Manage Event Promotional Codes"
-msgstr ""
+msgstr "Manage Event Promotional Codes"
 
 #: ../includes/admin-files/coupon-management/index.php:11
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/coupon_management.php:149
 msgid "Add New Code"
-msgstr ""
+msgstr "Add New Code"
 
 #: ../includes/admin-files/coupon-management/delete_discount.php:28
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/coupon_management.php:58
@@ -8576,173 +8643,177 @@ msgstr ""
 
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/template_confg.php:30
 msgid "Template Settings Updated"
-msgstr ""
+msgstr "Template Settings Updated"
 
 #: ../includes/functions/admin_menu.php:68
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/template_confg.php:66
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_screen.php:62
 msgid "Template Settings"
-msgstr ""
+msgstr "Template Settings"
 
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/template_confg.php:115
 msgid "Event Listings"
-msgstr ""
+msgstr "Event Listings"
 
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/template_confg.php:120
 msgid "Display Descriptions"
-msgstr ""
+msgstr "Display Descriptions"
 
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/template_confg.php:127
 msgid "Use SHORT Descriptions"
-msgstr ""
+msgstr "Use SHORT Descriptions"
 
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/template_confg.php:132
 msgid "Be sure to use the more... tag in your event description"
-msgstr ""
+msgstr "Be sure to use the more... tag in your event description"
 
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/template_confg.php:137
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/template_confg.php:150
 msgid "Display Addresses"
-msgstr ""
+msgstr "Display Addresses"
 
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/template_confg.php:145
 msgid "Registration Pages"
-msgstr ""
+msgstr "Registration Pages"
 
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/template_confg.php:155
 msgid ""
 "Do not use this if you are using the venue<br />\n"
 "shortcodes in your event description."
 msgstr ""
+"Do not use this if you are using the venue<br />\n"
+"shortcodes in your event description."
 
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/template_confg.php:161
 msgid "Stylesheets"
-msgstr ""
+msgstr "Stylesheets"
 
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/template_confg.php:166
 msgid "Use Built-in Style Sheets"
-msgstr ""
+msgstr "Use built in Style Sheets"
 
 #: ../includes/admin-files/template_settings/index.php:180
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/template_confg.php:172
 msgid "This option enables the style settings below."
-msgstr ""
+msgstr "This option enables the style settings below."
 
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/template_confg.php:177
 msgid "Use Grid Layout"
-msgstr ""
+msgstr "Use Grid Layout"
 
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/template_confg.php:183
 msgid "Displays event list in a grid layout."
-msgstr ""
+msgstr "Displays event list in a grid layout."
 
 #: ../includes/admin-files/template_settings/index.php:185
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/template_confg.php:189
 msgid "ThemeRoller Style "
-msgstr ""
+msgstr "ThemeRoller Style "
 
 #: ../includes/admin-files/template_settings/index.php:191
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/template_confg.php:193
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 #: ../includes/admin-files/template_settings/index.php:199
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/template_confg.php:200
 msgid "Default style sheet is Smoothness."
-msgstr ""
+msgstr "Default style sheet is Smoothness."
 
 #: ../includes/admin-files/template_settings/index.php:205
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/template_confg.php:206
 msgid "Current Custom Style Sheet"
-msgstr ""
+msgstr "Current Custom Style Sheet"
 
 #: ../includes/admin-files/template_settings/index.php:210
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/template_confg.php:211
 msgid "Remove style sheet?"
-msgstr ""
+msgstr "Remove style sheet?"
 
 #: ../includes/admin-files/template_settings/index.php:215
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/template_confg.php:216
 msgid "Add a custom style sheet?"
-msgstr ""
+msgstr "Add a custom style sheet?"
 
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/template_confg.php:238
 msgid "Multiple Event Descriptions"
-msgstr ""
+msgstr "Multiple Event Descriptions"
 
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/template_confg.php:243
 msgid ""
 "Displays the event description in the <br />Multiple Event Registration "
 "pages."
 msgstr ""
+"Displays the event description in the <br />Multiple Event Registration "
+"pages."
 
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/template_map_confg.php:37
 msgid "Events Map Settings Updated"
-msgstr ""
+msgstr "Events Map Settings Updated"
 
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/template_map_confg.php:92
 msgid "Event Espresso - Event Map Settings"
-msgstr ""
+msgstr "Event Espresso - Event Map Settings"
 
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/add_discount.php:25
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/add_discount.php:28
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/update_discount.php:25
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/update_discount.php:27
 msgid "The discount code "
-msgstr ""
+msgstr "The discount code "
 
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/add_discount.php:25
 #: ../../../event-espresso/trunk/includes/admin-files/email-manager/add_email_to_db.php:21
 #: ../../../event-espresso/trunk/includes/admin-files/email-manager/update_email.php:18
 msgid " was saved"
-msgstr ""
+msgstr " was saved"
 
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/add_discount.php:28
 #: ../../../event-espresso/trunk/includes/admin-files/email-manager/add_email_to_db.php:23
 #: ../../../event-espresso/trunk/includes/admin-files/email-manager/update_email.php:20
 msgid " was not saved"
-msgstr ""
+msgstr " was not saved"
 
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/edit_discount.php:33
 msgid "Edit Code"
-msgstr ""
+msgstr "Edit Code"
 
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/edit_discount.php:43
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/new_discount.php:23
 msgid "Promotional Code "
-msgstr ""
+msgstr "Promotional Code "
 
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/edit_discount.php:50
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/new_discount.php:30
 msgid "Limited Quantity"
-msgstr ""
+msgstr "Limited Quantity"
 
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/edit_discount.php:63
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/new_discount.php:43
 msgid "Expiration Active"
-msgstr ""
+msgstr "Expiration Active"
 
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/edit_discount.php:70
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/new_discount.php:50
 msgid "Expiration Date"
-msgstr ""
+msgstr "Expiration Date"
 
 #: ../includes/admin-files/coupon-management/edit_discount.php:65
 #: ../includes/admin-files/coupon-management/new_discount.php:21
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/edit_discount.php:77
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/new_discount.php:56
 msgid "Price Discount"
-msgstr ""
+msgstr "Price Discount"
 
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/edit_discount.php:83
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/new_discount.php:62
 msgid "Percentage Discount"
-msgstr ""
+msgstr "Percentage Discount"
 
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/edit_discount.php:90
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/new_discount.php:69
 msgid "Short Description"
-msgstr ""
+msgstr "Short Description"
 
 #: ../includes/admin-files/coupon-management/edit_discount.php:107
 #: ../includes/category-management/edit_event_category.php:109
@@ -8751,27 +8822,27 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/edit_venue.php:231
 #: ../../../event-espresso/trunk/includes/category-management/edit_event_category.php:77
 msgid "Update"
-msgstr ""
+msgstr "Update"
 
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/help.php:7
 msgid "Enable Expiration Dates"
-msgstr ""
+msgstr "Enable Expiration Dates"
 
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/help.php:10
 msgid "Adds an expiration date to this code."
-msgstr ""
+msgstr "Adds an expiration date to this code."
 
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/help.php:20
 msgid "Enable Limited Uses"
-msgstr ""
+msgstr "Enable Limited Uses"
 
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/help.php:23
 msgid "Allows you to limit the amount of times this code can be used."
-msgstr ""
+msgstr "Allows you to limit the amount of times this code can be used."
 
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/help.php:33
 msgid "Amount and Type of Discount"
-msgstr ""
+msgstr "Amount and Type of Discount"
 
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/help.php:36
 msgid "Choose an amount for the discount as a percentage or dollar amount."
@@ -8797,20 +8868,21 @@ msgstr "Choose an amount for the discount as a percentage or monetary amount."
 #: ../../../espresso-seating/trunk/template/create_seating_chart.php:68
 #: ../../../espresso-seating/trunk/template/edit_seating_chart.php:81
 msgid "Description"
-msgstr ""
+msgstr "Description"
 
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/help.php:49
 msgid "Leave a note about this code. Will not displayed on front facing pages."
 msgstr ""
+"Leave a note about this code. Will not displayed on front facing pages."
 
 #: ../includes/admin-files/coupon-management/new_discount.php:15
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/help.php:59
 msgid "Promotional Code"
-msgstr ""
+msgstr "Promotional Code"
 
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/help.php:62
 msgid "This is the actual code that will be used."
-msgstr ""
+msgstr "This is the actual code that will be used."
 
 #: ../../../event-espresso/trunk/includes/admin-files/coupon-management/help.php:65
 #: ../../../espresso-calendar/trunk/calendar_help.php:127
@@ -8901,19 +8973,19 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/event_management.php:36
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/advanced_settings.php:45
 msgid "Personal Information only"
-msgstr ""
+msgstr "Personal Information only"
 
 #: ../includes/admin-files/event-management/advanced_settings.php:27
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/event_management.php:37
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/advanced_settings.php:46
 msgid "Full registration information"
-msgstr ""
+msgstr "Full registration information"
 
 #: ../includes/admin-files/event-management/advanced_settings.php:38
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/event_management.php:71
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/advanced_settings.php:57
 msgid "Additional Attendee Registration info?"
-msgstr ""
+msgstr "Additional Attendee Registration info?"
 
 #: ../includes/admin-files/event-management/advanced_settings.php:39
 #: ../includes/event-management/add_new_event.php:45
@@ -8921,13 +8993,13 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/advanced_settings.php:58
 #: ../../../event-espresso/trunk/includes/lite-files/event_management.php:46
 msgid "Advanced Options:"
-msgstr ""
+msgstr "Advanced Options:"
 
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/event_management.php:79
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/advanced_settings.php:60
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/advanced_settings.php:67
 msgid "Event Status"
-msgstr ""
+msgstr "Event Status"
 
 #: ../includes/admin-files/event-management/advanced_settings.php:41
 #: ../includes/functions/main.php:333
@@ -8935,32 +9007,32 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/classes/EE_Event.class.old.php:606
 #: ../../../event-espresso/trunk/includes/functions/main.php:276
 msgid "PENDING"
-msgstr ""
+msgstr "PENDING"
 
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/event_management.php:75
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/advanced_settings.php:66
 msgid "Event is Active"
-msgstr ""
+msgstr "Event is Active"
 
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/event_management.php:87
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/advanced_settings.php:75
 msgid "Display  Description"
-msgstr ""
+msgstr "Display Description"
 
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/event_management.php:92
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/advanced_settings.php:76
 msgid "Display  Registration Form"
-msgstr ""
+msgstr "Display Registration Form"
 
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/event_management.php:98
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/advanced_settings.php:77
 msgid "Default Payment Status"
-msgstr ""
+msgstr "Default Payment Status"
 
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/event_management.php:106
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/advanced_settings.php:79
 msgid "Alternate Registration Page"
-msgstr ""
+msgstr "Alternate Registration Page"
 
 #: ../includes/event-management/index.php:183
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/event_management.php:114
@@ -8975,19 +9047,19 @@ msgstr "Alternative Email Address"
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/edit_event_post.php:15
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/new_event_post.php:6
 msgid "Create a Post"
-msgstr ""
+msgstr "Create a Post"
 
 #: ../includes/admin-files/event-management/edit_event_post.php:28
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/event_management.php:328
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/edit_event_post.php:32
 msgid "Add/Update post for this event?"
-msgstr ""
+msgstr "Add/Update post for this event?"
 
 #: ../includes/admin-files/event-management/edit_event_post.php:29
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/event_management.php:335
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/edit_event_post.php:38
 msgid "If no, delete current post?"
-msgstr ""
+msgstr "If no, delete current post?"
 
 #: ../includes/admin-files/event-management/edit_event_post.php:52
 #: ../includes/admin-files/event-management/new_event_post.php:34
@@ -8995,7 +9067,7 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/edit_event_post.php:66
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/new_event_post.php:41
 msgid "Espresso Event"
-msgstr ""
+msgstr "Espresso Event"
 
 #: ../includes/admin-files/event-management/edit_event_post.php:53
 #: ../includes/admin-files/event-management/new_event_post.php:35
@@ -9005,13 +9077,13 @@ msgstr ""
 #: ../../../espresso-calendar/trunk/calendar_admin.php:425
 #: ../../../espresso-calendar/trunk/calendar_admin_classic.php:234
 msgid "Post"
-msgstr ""
+msgstr "Post"
 
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/event_management.php:373
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/edit_event_post.php:75
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/new_event_post.php:53
 msgid "Author"
-msgstr ""
+msgstr "Author"
 
 #: ../includes/admin-files/event-management/edit_event_post.php:61
 #: ../includes/admin-files/event-management/new_event_post.php:44
@@ -9019,14 +9091,14 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/edit_event_post.php:85
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/new_event_post.php:63
 msgid "Post Type"
-msgstr ""
+msgstr "Post Type"
 
 #: ../includes/admin-files/event-management/new_event_post.php:47
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/event_management.php:393
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/edit_event_post.php:95
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/new_event_post.php:73
 msgid "Tags"
-msgstr ""
+msgstr "Tags"
 
 #: ../includes/admin-files/event-management/edit_event_post.php:67
 #: ../includes/admin-files/event-management/new_event_post.php:48
@@ -9034,33 +9106,34 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/edit_event_post.php:107
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/new_event_post.php:83
 msgid "Post Categories:"
-msgstr ""
+msgstr "Post Categories:"
 
 #: ../includes/admin-files/event-management/new_event_post.php:9
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/new_event_post.php:14
 msgid "Create a post for this event?"
-msgstr ""
+msgstr "Create a post for this event?"
 
 #: ../includes/admin-files/event-management/edit_event_post.php:62
 #: ../includes/admin-files/event-management/new_event_post.php:45
 #: ../../../event-espresso/trunk/includes/admin-files/event-management/new_event_post.php:87
 msgid "Post templates are stored in the \"templates\" directory of the plugin."
 msgstr ""
+"Post templates are stored in the \"templates\" directory of the plugin."
 
 #: ../includes/admin-files/event-management/promotions_box.php:6
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/event_management.php:14
 msgid "Event Promotions"
-msgstr ""
+msgstr "Event Promotions"
 
 #: ../includes/admin-files/event-management/promotions_box.php:12
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/event_management.php:180
 msgid "Early Registration Discount"
-msgstr ""
+msgstr "Early Registration Discount"
 
 #: ../includes/admin-files/event-management/promotions_box.php:17
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/event_management.php:182
 msgid "End Date:"
-msgstr ""
+msgstr "End Date:"
 
 #: ../includes/admin-files/event-management/promotions_box.php:23
 #: ../includes/admin-reports/edit_attendee_record.php:676
@@ -9068,53 +9141,53 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin-reports/edit_attendee_record.php:619
 #: ../../../event-espresso/trunk/includes/admin-reports/enter_attendee_payments.php:251
 msgid "Amount:"
-msgstr ""
+msgstr "Amount:"
 
 #: ../includes/admin-files/event-management/promotions_box.php:31
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/event_management.php:185
 msgid "(Leave blank if not applicable)"
-msgstr ""
+msgstr "(Leave blank if not applicable)"
 
 #: ../includes/admin-files/event-management/promotions_box.php:26
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/event_management.php:189
 msgid "Percentage:"
-msgstr ""
+msgstr "Percentage:"
 
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/event_management.php:194
 msgid "Promotion Codes"
-msgstr ""
+msgstr "Promotion Codes"
 
 #: ../includes/admin-files/event-management/promotions_box.php:34
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/event_management.php:196
 msgid "Allow discount codes?"
-msgstr ""
+msgstr "Allow discount codes?"
 
 #: ../includes/admin-files/event-management/promotions_box.php:67
 #: ../../../event-espresso/trunk/includes/admin-files/admin_screens/event_management.php:227
 msgid "Manage Promotional Codes "
-msgstr ""
+msgstr "Manage Promotional Codes "
 
 #: ../includes/admin-files/form-builder/groups/delete_group.php:68
 #: ../../../event-espresso/trunk/includes/admin-files/form-builder/groups/delete_group.php:31
 msgid "Question Groups have been successfully deleted."
-msgstr ""
+msgstr "Question Groups have been successfully deleted."
 
 #: ../../../event-espresso/trunk/includes/admin-files/form-builder/groups/insert_group.php:46
 msgid "There was an error in your submission for group "
-msgstr ""
+msgstr "There was an error in your submission for group "
 
 #: ../../../event-espresso/trunk/includes/admin-files/form-builder/groups/insert_group.php:46
 msgid " The group was not added!"
-msgstr ""
+msgstr " The group was not added!"
 
 #: ../../../event-espresso/trunk/includes/admin-files/form-builder/groups/insert_group.php:48
 #: ../../../event-espresso/trunk/includes/form-builder/groups/update_group.php:40
 msgid "The group "
-msgstr ""
+msgstr "The group "
 
 #: ../../../event-espresso/trunk/includes/admin-files/form-builder/groups/insert_group.php:48
 msgid " has been added."
-msgstr ""
+msgstr " has been added."
 
 #: ../includes/admin-files/form-builder/groups/new_group.php:8
 #: ../includes/form-builder/groups/index.php:23
@@ -9123,26 +9196,26 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin_screens/question_groups.php:179
 #: ../../../event-espresso/trunk/includes/admin_screens/question_groups.php:191
 msgid "Add New Group"
-msgstr ""
+msgstr "Add New Group"
 
 #: ../includes/admin-files/form-builder/groups/new_group.php:11
 #: ../../../event-espresso/trunk/includes/admin-files/form-builder/groups/new_group.php:12
 msgid "Add new group using the form below."
-msgstr ""
+msgstr "Add new group using the form below."
 
 #: ../includes/admin-files/form-builder/groups/new_group.php:16
 #: ../includes/form-builder/groups/edit_group.php:47
 #: ../../../event-espresso/trunk/includes/admin-files/form-builder/groups/new_group.php:17
 #: ../../../event-espresso/trunk/includes/form-builder/groups/edit_group.php:38
 msgid "Group Information"
-msgstr ""
+msgstr "Group Information"
 
 #: ../includes/admin-files/form-builder/groups/new_group.php:19
 #: ../includes/form-builder/groups/edit_group.php:51
 #: ../../../event-espresso/trunk/includes/admin-files/form-builder/groups/new_group.php:20
 #: ../../../event-espresso/trunk/includes/form-builder/groups/edit_group.php:42
 msgid "Group Name:"
-msgstr ""
+msgstr "Group Name:"
 
 #: ../includes/admin-files/coupon-management/new_discount.php:15
 #: ../includes/admin-files/form-builder/groups/new_group.php:19
@@ -9157,33 +9230,33 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/category-management/add_new_category.php:23
 #: ../../../event-espresso/trunk/includes/category-management/edit_event_category.php:33
 msgid "This field is required"
-msgstr ""
+msgstr "This field is required"
 
 #: ../includes/admin-files/form-builder/groups/new_group.php:24
 #: ../includes/form-builder/groups/edit_group.php:56
 #: ../../../event-espresso/trunk/includes/admin-files/form-builder/groups/new_group.php:25
 #: ../../../event-espresso/trunk/includes/form-builder/groups/edit_group.php:47
 msgid "Group Order:"
-msgstr ""
+msgstr "Group Order:"
 
 #: ../includes/admin-files/form-builder/groups/new_group.php:34
 #: ../includes/form-builder/groups/edit_group.php:71
 #: ../../../event-espresso/trunk/includes/admin-files/form-builder/groups/new_group.php:37
 #: ../../../event-espresso/trunk/includes/form-builder/groups/edit_group.php:64
 msgid "Show group name on registration page?"
-msgstr ""
+msgstr "Show group name on registration page?"
 
 #: ../includes/admin-files/form-builder/groups/new_group.php:39
 #: ../includes/form-builder/groups/edit_group.php:76
 #: ../../../event-espresso/trunk/includes/admin-files/form-builder/groups/new_group.php:44
 #: ../../../event-espresso/trunk/includes/form-builder/groups/edit_group.php:71
 msgid "Show group description on registration page?"
-msgstr ""
+msgstr "Show group description on registration page?"
 
 #: ../includes/admin-files/form-builder/groups/new_group.php:48
 #: ../../../event-espresso/trunk/includes/admin-files/form-builder/groups/new_group.php:53
 msgid "Add questions"
-msgstr ""
+msgstr "Add questions"
 
 #: ../includes/admin-files/form-builder/groups/new_group.php:50
 #: ../../../event-espresso/trunk/includes/admin-files/form-builder/groups/new_group.php:55
@@ -9306,7 +9379,7 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin_screens/questions.php:104
 #: ../../../event-espresso/trunk/includes/form-builder/questions/edit_question.php:76
 msgid "Values"
-msgstr ""
+msgstr "Values"
 
 #: ../includes/admin-files/form-builder/questions/new_question.php:52
 #: ../includes/form-builder/questions/edit_question.php:93
@@ -9318,97 +9391,97 @@ msgstr "A comma separated list of values. Eg. black, blue, red"
 #: ../includes/admin-files/form-builder/questions/new_question.php:57
 #: ../../../event-espresso/trunk/includes/admin-files/form-builder/questions/new_question.php:57
 msgid "Required:"
-msgstr ""
+msgstr "Required:"
 
 #: ../includes/admin-files/form-builder/questions/new_question.php:63
 #: ../includes/form-builder/questions/edit_question.php:111
 #: ../../../event-espresso/trunk/includes/admin-files/form-builder/questions/new_question.php:63
 #: ../../../event-espresso/trunk/includes/form-builder/questions/edit_question.php:99
 msgid "Mark this question as required."
-msgstr ""
+msgstr "Mark this question as required."
 
 #: ../includes/admin-files/form-builder/questions/new_question.php:68
 #: ../../../event-espresso/trunk/includes/admin-files/form-builder/questions/new_question.php:68
 msgid " Admin View Only"
-msgstr ""
+msgstr " Admin View Only"
 
 #: ../includes/admin-files/form-builder/questions/new_question.php:76
 #: ../includes/form-builder/questions/edit_question.php:137
 #: ../../../event-espresso/trunk/includes/admin-files/form-builder/questions/new_question.php:76
 #: ../../../event-espresso/trunk/includes/form-builder/questions/edit_question.php:125
 msgid "Required Text"
-msgstr ""
+msgstr "Required Text"
 
 #: ../includes/admin-files/form-builder/questions/new_question.php:80
 #: ../../../event-espresso/trunk/includes/admin-files/form-builder/questions/new_question.php:80
 msgid "Text to display if not completed."
-msgstr ""
+msgstr "Text to display if not completed."
 
 #: ../includes/admin-files/form-builder/questions/new_question.php:85
 #: ../includes/form-builder/questions/edit_question.php:148
 #: ../../../event-espresso/trunk/includes/admin-files/form-builder/questions/new_question.php:85
 #: ../../../event-espresso/trunk/includes/form-builder/questions/edit_question.php:136
 msgid "Order/Sequence"
-msgstr ""
+msgstr "Order/Sequence"
 
 #: ../../../event-espresso/trunk/includes/admin-files/locale-management/add_locale_to_db.php:18
 #: ../../../event-espresso/trunk/includes/admin-files/locale-management/update_locale.php:11
 msgid "The locale "
-msgstr ""
+msgstr "The locale "
 
 #: ../../../event-espresso/trunk/includes/admin-files/locale-management/add_locale_to_db.php:20
 #: ../../../event-espresso/trunk/includes/admin-files/locale-management/update_locale.php:13
 msgid "The locale"
-msgstr ""
+msgstr "The locale"
 
 #: ../includes/admin-files/locale-management/add_new_locale.php:10
 #: ../../../event-espresso/trunk/includes/admin-files/locale-management/add_new_locale.php:10
 msgid "Add a Locale"
-msgstr ""
+msgstr "Add a Locale"
 
 #: ../includes/admin-files/locale-management/add_new_locale.php:24
 #: ../../../event-espresso/trunk/includes/admin-files/locale-management/add_new_locale.php:24
 msgid "Save Locale"
-msgstr ""
+msgstr "Save Locale"
 
 #: ../includes/admin-files/locale-management/edit_locale.php:16
 #: ../../../event-espresso/trunk/includes/admin-files/locale-management/edit_locale.php:16
 msgid "Edit Locale:"
-msgstr ""
+msgstr "Edit Locale:"
 
 #: ../includes/admin-files/locale-management/edit_locale.php:30
 #: ../../../event-espresso/trunk/includes/admin-files/locale-management/edit_locale.php:31
 msgid "Update Locale"
-msgstr ""
+msgstr "Update Locale"
 
 #: ../includes/admin-files/locale-management/index.php:7
 #: ../includes/admin-files/venue-management/add_new_venue.php:94
 #: ../includes/admin-files/venue-management/edit_venue.php:134
 #: ../../../event-espresso/trunk/includes/admin-files/locale-management/index.php:7
 msgid "Manage Locales/Regions"
-msgstr ""
+msgstr "Manage Locales/Regions"
 
 #: ../includes/admin-files/locale-management/index.php:9
 #: ../includes/admin-files/locale-management/index.php:92
 #: ../../../event-espresso/trunk/includes/admin-files/locale-management/index.php:9
 #: ../../../event-espresso/trunk/includes/admin-files/locale-management/index.php:91
 msgid "Add New Locale"
-msgstr ""
+msgstr "Add New Locale"
 
 #: ../includes/admin-files/locale-management/index.php:41
 #: ../../../event-espresso/trunk/includes/admin-files/locale-management/index.php:41
 msgid "Locales have been successfully deleted from the event."
-msgstr ""
+msgstr "Locales have been successfully deleted from the event."
 
 #: ../includes/admin-files/locale-management/index.php:91
 #: ../../../event-espresso/trunk/includes/admin-files/locale-management/index.php:90
 msgid "Delete Locale"
-msgstr ""
+msgstr "Delete Locale"
 
 #: ../includes/admin-files/locale-management/index.php:101
 #: ../../../event-espresso/trunk/includes/admin-files/locale-management/index.php:100
 msgid "Locale Locale"
-msgstr ""
+msgstr "Locale Locale"
 
 #: ../includes/admin-files/locale-management/index.php:102
 #: ../../../event-espresso/trunk/includes/admin-files/locale-management/index.php:101
@@ -9416,6 +9489,8 @@ msgid ""
 "This can be used to group locales together in your custom queries or "
 "shortcodes"
 msgstr ""
+"This can be used to group locales together in your custom queries or "
+"shortcodes"
 
 #: ../../../event-espresso/trunk/includes/admin-files/locale-management/update_locale.php:11
 #: ../../../event-espresso/trunk/includes/admin-files/staff-management/add_staff_to_db.php:35
@@ -9423,19 +9498,19 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/update_venue.php:58
 #: ../../../espresso-ticketing/trunk/manager/update_ticket.php:17
 msgid " has been updated"
-msgstr ""
+msgstr " has been updated"
 
 #: ../../../event-espresso/trunk/includes/admin-files/locale-management/update_locale.php:13
 #: ../../../event-espresso/trunk/includes/admin-files/staff-management/add_staff_to_db.php:37
 #: ../../../event-espresso/trunk/includes/admin-files/staff-management/update_staff.php:36
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/update_venue.php:60
 msgid " was not updated!"
-msgstr ""
+msgstr " was not updated!"
 
 #: ../includes/admin-files/staff-management/add_new_staff.php:7
 #: ../../../event-espresso/trunk/includes/admin-files/staff-management/add_new_staff.php:7
 msgid "Add a Staff Member"
-msgstr ""
+msgstr "Add a Staff Member"
 
 #: ../gateways/beanstream/payment.php:146
 #: ../includes/admin-files/staff-management/add_new_staff.php:30
@@ -9448,7 +9523,7 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/edit_venue.php:147
 #: ../../../event-espresso/trunk/includes/classes/EE_Export.class.php:595
 msgid "Phone"
-msgstr ""
+msgstr "Phone"
 
 #: ../includes/admin-files/staff-management/add_new_staff.php:36
 #: ../includes/admin-files/staff-management/edit_staff.php:50
@@ -9458,7 +9533,7 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin-files/staff-management/edit_staff.php:50
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/add_new_venue.php:114
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: ../includes/admin-files/staff-management/add_new_staff.php:42
 #: ../includes/admin-files/staff-management/edit_staff.php:56
@@ -9469,7 +9544,7 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/add_new_venue.php:30
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/edit_venue.php:69
 msgid "Website"
-msgstr ""
+msgstr "Website"
 
 #: ../includes/admin-files/staff-management/add_new_staff.php:48
 #: ../includes/admin-files/staff-management/edit_staff.php:62
@@ -9480,7 +9555,7 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/add_new_venue.php:36
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/edit_venue.php:75
 msgid "Image/Logo URL"
-msgstr ""
+msgstr "Image/Logo URL"
 
 #: ../includes/admin-files/staff-management/add_new_staff.php:58
 #: ../includes/admin-files/staff-management/edit_staff.php:72
@@ -9489,7 +9564,7 @@ msgstr ""
 #: ../../../espresso-permissions/trunk/includes/default-roles.php:76
 #: ../../../espresso-permissions/trunk/includes/default-roles.php:85
 msgid "Role"
-msgstr ""
+msgstr "Role"
 
 #: ../includes/admin-files/staff-management/add_new_staff.php:64
 #: ../includes/admin-files/staff-management/edit_staff.php:78
@@ -9505,14 +9580,14 @@ msgstr "Organisation"
 #: ../../../event-espresso/trunk/includes/admin-files/staff-management/add_new_staff.php:70
 #: ../../../event-espresso/trunk/includes/admin-files/staff-management/edit_staff.php:84
 msgid "Title"
-msgstr ""
+msgstr "Title"
 
 #: ../includes/admin-files/staff-management/add_new_staff.php:76
 #: ../includes/admin-files/staff-management/edit_staff.php:90
 #: ../../../event-espresso/trunk/includes/admin-files/staff-management/add_new_staff.php:76
 #: ../../../event-espresso/trunk/includes/admin-files/staff-management/edit_staff.php:90
 msgid "Industry"
-msgstr ""
+msgstr "Industry"
 
 #: ../includes/admin-files/staff-management/add_new_staff.php:88
 #: ../includes/admin-files/staff-management/edit_staff.php:102
@@ -9525,44 +9600,44 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/add_new_venue.php:77
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/edit_venue.php:116
 msgid "Country"
-msgstr ""
+msgstr "Country"
 
 #: ../includes/admin-files/staff-management/add_new_staff.php:128
 #: ../../../event-espresso/trunk/includes/admin-files/staff-management/add_new_staff.php:121
 msgid "Save Staff Member"
-msgstr ""
+msgstr "Save Staff Member"
 
 #: ../../../event-espresso/trunk/includes/admin-files/staff-management/add_staff_to_db.php:35
 #: ../../../event-espresso/trunk/includes/admin-files/staff-management/update_staff.php:34
 msgid "The staff member "
-msgstr ""
+msgstr "The Staff Member "
 
 #: ../../../event-espresso/trunk/includes/admin-files/staff-management/add_staff_to_db.php:37
 #: ../../../event-espresso/trunk/includes/admin-files/staff-management/update_staff.php:36
 msgid "The staff member"
-msgstr ""
+msgstr "The Staff Member"
 
 #: ../includes/admin-files/staff-management/edit_staff.php:20
 #: ../../../event-espresso/trunk/includes/admin-files/staff-management/edit_staff.php:20
 msgid "Edit Staff Member:"
-msgstr ""
+msgstr "Edit Staff Member:"
 
 #: ../includes/admin-files/staff-management/edit_staff.php:140
 #: ../../../event-espresso/trunk/includes/admin-files/staff-management/edit_staff.php:133
 msgid "Update Staff Member"
-msgstr ""
+msgstr "Update Staff Member"
 
 #: ../includes/admin-files/staff-management/index.php:12
 #: ../includes/admin-files/staff-management/index.php:134
 #: ../../../event-espresso/trunk/includes/admin-files/staff-management/index.php:119
 #: ../../../event-espresso/trunk/includes/admin-files/staff-management/index.php:131
 msgid "Add New Staff Member"
-msgstr ""
+msgstr "Add New Staff Member"
 
 #: ../includes/admin-files/staff-management/index.php:40
 #: ../../../event-espresso/trunk/includes/admin-files/staff-management/index.php:32
 msgid "Staff member(s) have been successfully deleted from the event."
-msgstr ""
+msgstr "Staff Member(s) have been successfully deleted from the event."
 
 #: ../includes/admin-files/staff-management/index.php:75
 #: ../includes/admin-files/venue-management/index.php:89
@@ -9573,43 +9648,43 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin_screens/categories.php:75
 #: ../../../event-espresso/trunk/includes/admin_screens/events/event_functions.php:177
 msgid "Shortcode"
-msgstr ""
+msgstr "Shortcode"
 
 #: ../includes/admin-files/staff-management/index.php:133
 #: ../../../event-espresso/trunk/includes/admin-files/staff-management/index.php:118
 msgid "Delete Staff Member(s)"
-msgstr ""
+msgstr "Delete Staff Member(s)"
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/event_gmaps_settings.php:15
 msgid "Event Registration Options"
-msgstr ""
+msgstr "Event Registration Options"
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/event_gmaps_settings.php:21
 #: ../../../event-espresso/trunk/includes/admin-files/templates/event_gmaps_settings.php:115
 #: ../../../event-espresso/trunk/includes/admin-files/templates/map_confg_help.php:25
 msgid "Set Map Width"
-msgstr ""
+msgstr "Set Map Width"
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/event_gmaps_settings.php:31
 #: ../../../event-espresso/trunk/includes/admin-files/templates/event_gmaps_settings.php:125
 #: ../../../event-espresso/trunk/includes/admin-files/templates/map_confg_help.php:30
 msgid "Set Map Height"
-msgstr ""
+msgstr "Set Map Height"
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/event_gmaps_settings.php:41
 msgid "Set Map Zoom level: Range 1 - 19"
-msgstr ""
+msgstr "Set Map Zoom level: Range 1 - 19"
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/event_gmaps_settings.php:51
 #: ../../../event-espresso/trunk/includes/admin-files/templates/map_confg_help.php:40
 msgid "Set Map Navigation Overlay"
-msgstr ""
+msgstr "Set Map Navigation Overlay"
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/event_gmaps_settings.php:61
 #: ../../../event-espresso/trunk/includes/admin-files/templates/event_gmaps_settings.php:155
 #: ../../../event-espresso/trunk/includes/admin-files/templates/map_confg_help.php:45
 msgid "Keep Map Navigation Small"
-msgstr ""
+msgstr "Keep Map Navigation Small"
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/event_gmaps_settings.php:70
 #: ../../../event-espresso/trunk/includes/admin-files/templates/event_gmaps_settings.php:164
@@ -9693,7 +9768,7 @@ msgstr ""
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/map_confg_help.php:21
 msgid "Below is a brief explanation of the options available."
-msgstr ""
+msgstr "Below is a brief explanation of the options available."
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/map_confg_help.php:27
 msgid ""
@@ -9712,6 +9787,8 @@ msgid ""
 "The same as setting the width above but for the map height - maps work best "
 "set to equal values i.e square dimensions."
 msgstr ""
+"The same as setting the width above but for the map height - maps work best "
+"set to equal values i.e. square dimensions."
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/map_confg_help.php:37
 msgid ""
@@ -9720,11 +9797,16 @@ msgid ""
 "you zoom in and see the actual address in finer detail, a default value of "
 "12 is set as a good base value."
 msgstr ""
+"Zoom level is the level of detail that is shown when the map first renders a "
+"low value means you zoom out and see a wider area, a higher value means that "
+"you zoom in and see the actual address in finer detail, a default value of "
+"12 is set as a good base value."
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/map_confg_help.php:42
 msgid ""
 "The navigation overlay are the controls for panning and zooming the map."
 msgstr ""
+"The navigation overlay are the controls for panning and zooming the map."
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/map_confg_help.php:47
 msgid ""
@@ -9733,12 +9815,18 @@ msgid ""
 "size of a map, if you want to stop this happening you can set this option to "
 "yes."
 msgstr ""
+"Keep map navigation small tells Google to only load the smaller map overlay "
+"regardless of map size - Google changes various options according to the "
+"size of a map, if you want to stop this happening you can set this option to "
+"yes."
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/map_confg_help.php:52
 msgid ""
 "The map type control is the options bar google sets in the top right corner "
 "this can take the form of a dropdown or horizontal bar."
 msgstr ""
+"The map type control is the options bar Google sets in the top right corner "
+"this can take the form of a dropdown or horizontal bar."
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/map_confg_help.php:57
 msgid ""
@@ -9747,6 +9835,10 @@ msgid ""
 "on your themes layout as to whether it will work as expected. The default "
 "alignment is to the left."
 msgstr ""
+"Alignment allows you to move the map left, centre, or right within whatever "
+"parent event structure you have, please note though this option is dependent "
+"on your themes layout as to whether it will work as expected. The default "
+"alignment is to the left."
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/map_confg_help.php:62
 msgid ""
@@ -9754,11 +9846,14 @@ msgid ""
 "option is used if you are not using venue shortcodes and want map display "
 "activated in either event list pages or registration pages."
 msgstr ""
+"Select this option to enable your event map in the template file - this "
+"option is used if you are not using venue shortcodes and want map display "
+"activated in either event list pages or registration pages."
 
 #: ../includes/admin-files/template_settings/templates_help.php:6
 #: ../../../event-espresso/trunk/includes/admin-files/templates/templates_help.php:10
 msgid "Enable Built In Styles"
-msgstr ""
+msgstr "Enable Built In Styles"
 
 #: ../includes/admin-files/template_settings/templates_help.php:9
 #: ../../../event-espresso/trunk/includes/admin-files/templates/templates_help.php:13
@@ -9766,6 +9861,8 @@ msgid ""
 "Enabling Styles tells Event Espresso to use it's built in stylesheets for "
 "styling the template files."
 msgstr ""
+"Enabling Styles tells Event Espresso to use it's built in stylesheets for "
+"styling the template files."
 
 #: ../includes/admin-files/template_settings/templates_help.php:11
 msgid ""
@@ -9773,6 +9870,9 @@ msgid ""
 "uploads/espresso/templates folder for a copy of the stylesheet, if not found "
 "it then uses the copy found in the main templates folder."
 msgstr ""
+"If this option is enabled Event Espresso first looks in the /wp-content/"
+"uploads/espresso/templates folder for a copy of the stylesheet, if not found "
+"it then uses the copy found in the main templates folder."
 
 #: ../includes/admin-files/template_settings/templates_help.php:12
 msgid ""
@@ -9798,7 +9898,7 @@ msgstr ""
 #: ../../../espresso-ticketing/trunk/manager/tickets_help.php:76
 #: ../../../espresso-ticketing/trunk/manager/tickets_help.php:163
 msgid "ATTENTION:"
-msgstr ""
+msgstr "ATTENTION:"
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/templates_help.php:24
 msgid ""
@@ -9816,7 +9916,7 @@ msgstr ""
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/templates_help.php:36
 msgid "Default Event Espresso Style Settings"
-msgstr ""
+msgstr "Default Event Espresso Style Settings"
 
 #: ../includes/admin-files/template_settings/templates_help.php:31
 #: ../../../event-espresso/trunk/includes/admin-files/templates/templates_help.php:40
@@ -9835,6 +9935,8 @@ msgid ""
 "These two drop down options provide a choice of stylesheets with various "
 "stylings."
 msgstr ""
+"These two drop down options provide a choice of stylesheets with various "
+"stylings."
 
 #: ../includes/admin-files/template_settings/templates_help.php:35
 #: ../../../event-espresso/trunk/includes/admin-files/templates/templates_help.php:47
@@ -9871,7 +9973,7 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin-files/templates/templates_help.php:65
 #: ../../../event-espresso/trunk/includes/admin-files/templates/template_files.php:46
 msgid "Custom Templates"
-msgstr ""
+msgstr "Custom Templates"
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/templates_help.php:68
 msgid ""
@@ -9879,11 +9981,14 @@ msgid ""
 "updated. If you have moved these files and having problems, you can disable "
 "this feature to load the default files."
 msgstr ""
+"Sometimes these files will cause problems when Event Espresso has been "
+"updated. If you have moved these files and having problems, you can disable "
+"this feature to load the default files."
 
 #: ../includes/admin-files/template_settings/templates_help.php:81
 #: ../../../event-espresso/trunk/includes/admin-files/templates/templates_help.php:81
 msgid "ThemeRoller Style Settings "
-msgstr ""
+msgstr "ThemeRoller Style Settings "
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/templates_help.php:84
 msgid ""
@@ -9895,16 +10000,23 @@ msgid ""
 "css\" style sheet which applies the necessary padding and margins to the "
 "Event Espresso generated content."
 msgstr ""
+"Event Espresso uses the <a href=\"http://themeroller.com/\" target=\"_blank"
+"\">jQuery UI ThemeRoller</a> CSS library to style the event listings and "
+"registration pages. The ThemeRoller CSS library makes it easy to get the "
+"desired look and feel for your events and calendar. If the built in style "
+"are activated, Event Espresso will automatically load the \"themeroller-base."
+"css\" style sheet which applies the necessary padding and margins to the "
+"Event Espresso generated content."
 
 #: ../includes/admin-files/template_settings/templates_help.php:86
 #: ../../../event-espresso/trunk/includes/admin-files/templates/templates_help.php:86
 msgid "Adding Custom ThemeRoller Styles"
-msgstr ""
+msgstr "Adding Custom ThemeRoller Styles"
 
 #: ../includes/admin-files/template_settings/templates_help.php:87
 #: ../../../event-espresso/trunk/includes/admin-files/templates/templates_help.php:87
 msgid "To add your own custom ThemeRoller styles: "
-msgstr ""
+msgstr "To add your own custom ThemeRoller styles: "
 
 #: ../includes/admin-files/template_settings/templates_help.php:90
 #: ../../../event-espresso/trunk/includes/admin-files/templates/templates_help.php:90
@@ -9912,6 +10024,8 @@ msgid ""
 "Go to the <a href=\"http://themeroller.com/\" target=\"_blank\">jQuery UI "
 "ThemeRoller</a> site and design and download your custom style."
 msgstr ""
+"Go to the <a href=\"http://themeroller.com/\" target=\"_blank\">jQuery UI "
+"ThemeRoller</a> site and design and download your custom style."
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/templates_help.php:91
 msgid ""
@@ -9920,6 +10034,10 @@ msgid ""
 "selected a pre-made style). If you like, rename the \"custom-theme\" folder "
 "to something memorable."
 msgstr ""
+"Unzip the downloaded file, then navigate to the \"/css/\" folder. Inside you "
+"will see a folder named \"custom-theme\" (or the name of the theme if you "
+"selected a pre-made style). If you like, rename the \"custom-theme\" folder "
+"to something memorable."
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/templates_help.php:92
 msgid ""
@@ -9928,12 +10046,18 @@ msgid ""
 "you do not rename this file, you will not see your custom theme in the "
 "selections."
 msgstr ""
+"This step is very important. Inside the \"custom-theme\" folder, find a file "
+"named \"jquery-ui-*.*.**.custom.css\". Rename that file to \"style.css\". If "
+"you do not rename this file, you will not see your custom theme in the "
+"selections."
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/templates_help.php:93
 msgid ""
 "Upload your desired ThemeRoller styles to the \"wp-content/uploads/espresso/"
 "themeroller/\" folder on your server."
 msgstr ""
+"Upload your desired ThemeRoller styles to the \"wp-content/uploads/espresso/"
+"themeroller/\" folder on your server."
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/templates_help.php:94
 msgid ""
@@ -9941,12 +10065,15 @@ msgid ""
 "content/uploads/espresso/themeroller/\" folder. This will tell Event "
 "Espresso that you want to use custom ThemeRoller CSS files."
 msgstr ""
+"This step is very important. Create an empty \"index.php\" file in the \"wp-"
+"content/uploads/espresso/themeroller/\" folder. This will tell Event "
+"Espresso that you want to use custom ThemeRoller CSS files."
 
 #: ../includes/admin-files/template_settings/templates_help.php:95
 #: ../../../event-espresso/trunk/includes/admin-files/templates/templates_help.php:95
 #: ../../../event-espresso/trunk/includes/admin-files/templates/template_files.php:49
 msgid "IMPORTANT:"
-msgstr ""
+msgstr "IMPORTANT:"
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/templates_help.php:95
 msgid ""
@@ -9954,11 +10081,14 @@ msgid ""
 "file. Verify you have uploaded your custom ThemeRoller CSS files files\"wp-"
 "content/uploads/espresso/themeroller/custom-theme/style.css\""
 msgstr ""
+"Verify you have an \"wp-content/uploads/espresso/themeroller/index.php\" "
+"file. Verify you have uploaded your custom ThemeRoller CSS files files\"wp-"
+"content/uploads/espresso/themeroller/custom-theme/style.css\""
 
 #: ../includes/admin-files/template_settings/templates_help.php:99
 #: ../../../event-espresso/trunk/includes/admin-files/templates/templates_help.php:99
 msgid "About ThemeRoller"
-msgstr ""
+msgstr "About ThemeRoller"
 
 #: ../includes/admin-files/template_settings/templates_help.php:101
 #: ../../../event-espresso/trunk/includes/admin-files/templates/templates_help.php:101
@@ -9969,15 +10099,20 @@ msgid ""
 "this link: <a href=\"http://themeroller.com/\" target=\"_blank\">jQuery UI "
 "ThemeRoller</a>"
 msgstr ""
+"ThemeRoller is a web app that offers a fun and intuitive interface for "
+"designing and downloading custom themes for jQuery UI. You can find "
+"ThemeRoller in the \"Themes\" section of the jQuery UI site, or by following "
+"this link: <a href=\"http://themeroller.com/\" target=\"_blank\">jQuery UI "
+"ThemeRoller</a>"
 
 #: ../includes/admin-files/template_settings/template_files.php:15
 #: ../../../event-espresso/trunk/includes/admin-files/templates/template_files.php:24
 msgid "Your templates have been copied."
-msgstr ""
+msgstr "Your templates have been copied."
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/template_files.php:51
 msgid "Are you sure you want to enable this feature?"
-msgstr ""
+msgstr "Are you sure you want to enable this feature?"
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/template_files.php:58
 msgid ""
@@ -9986,56 +10121,62 @@ msgid ""
 "are not being used at this time. If you wish to use these files, please make "
 "sure you have updated them files to match the files located in the \""
 msgstr ""
+"It appears that you have moved your files to the \"wp-content/uploads/"
+"espresso/templates/ directory\". However, these files may be outdated and "
+"are not being used at this time. If you wish to use these files, please make "
+"sure you have updated them files to match the files located in the \""
 
 #: ../gateways/wepay/settings.php:128
 #: ../../../event-espresso/trunk/includes/admin-files/templates/template_files.php:63
 msgid "Instructions:"
-msgstr ""
+msgstr "Instructions:"
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/template_files.php:65
 msgid ""
 "To modify your event listings and registration pages. You need to edit the "
 "appropriate files in the following location."
 msgstr ""
+"To modify your event listings and registration pages. You need to edit the "
+"appropriate files in the following location."
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/template_files.php:72
 msgid "Current Template Files:"
-msgstr ""
+msgstr "Current Template Files:"
 
 #: ../includes/admin-files/template_settings/template_files.php:45
 #: ../../../event-espresso/trunk/includes/admin-files/templates/template_files.php:79
 msgid "(displays a list of attendees)"
-msgstr ""
+msgstr "(displays a list of attendees)"
 
 #: ../includes/admin-files/template_settings/template_files.php:48
 #: ../../../event-espresso/trunk/includes/admin-files/templates/template_files.php:82
 msgid "(logic for displaying the list of events)"
-msgstr ""
+msgstr "(logic for displaying the list of events)"
 
 #: ../includes/admin-files/template_settings/template_files.php:51
 #: ../../../event-espresso/trunk/includes/admin-files/templates/template_files.php:85
 msgid "(displays a list of events)"
-msgstr ""
+msgstr "(displays a list of events)"
 
 #: ../includes/admin-files/template_settings/template_files.php:54
 #: ../../../event-espresso/trunk/includes/admin-files/templates/template_files.php:88
 msgid "(create-a-post template)"
-msgstr ""
+msgstr "(create-a-post template)"
 
 #: ../includes/admin-files/template_settings/template_files.php:57
 #: ../../../event-espresso/trunk/includes/admin-files/templates/template_files.php:91
 msgid "(displays your payment page text)"
-msgstr ""
+msgstr "(displays your payment page text)"
 
 #: ../includes/admin-files/template_settings/template_files.php:60
 #: ../../../event-espresso/trunk/includes/admin-files/templates/template_files.php:94
 msgid "(logic for displaying the registration form)"
-msgstr ""
+msgstr "(logic for displaying the registration form)"
 
 #: ../includes/admin-files/template_settings/template_files.php:63
 #: ../../../event-espresso/trunk/includes/admin-files/templates/template_files.php:97
 msgid "(displays your registration form)"
-msgstr ""
+msgstr "(displays your registration form)"
 
 #: ../../../event-espresso/trunk/includes/admin-files/templates/template_files.php:100
 msgid "(displays a confimration page for free events)"
@@ -10044,17 +10185,17 @@ msgstr "(displays a confirmation page for free events)"
 #: ../includes/admin-files/template_settings/template_files.php:69
 #: ../../../event-espresso/trunk/includes/admin-files/templates/template_files.php:103
 msgid "(page that is displayed when returning to pay)"
-msgstr ""
+msgstr "(page that is displayed when returning to pay)"
 
 #: ../includes/admin-files/template_settings/template_files.php:72
 #: ../../../event-espresso/trunk/includes/admin-files/templates/template_files.php:106
 msgid "(creates a widget for use in your theme)"
-msgstr ""
+msgstr "(creates a widget for use in your theme)"
 
 #: ../includes/admin-files/template_settings/template_files.php:83
 #: ../../../event-espresso/trunk/includes/admin-files/templates/template_files.php:115
 msgid " - Moved"
-msgstr ""
+msgstr " - Moved"
 
 #: ../includes/admin-files/template_settings/template_files.php:86
 #: ../../../event-espresso/trunk/includes/admin-files/templates/template_files.php:119
@@ -10171,51 +10312,52 @@ msgstr ""
 msgid ""
 "Sorry the Gmap function is not available, please try the url method instead."
 msgstr ""
+"Sorry the Gmap function is not available, please try the URL method instead."
 
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/edit_venue.php:196
 msgid "View Large Map"
-msgstr ""
+msgstr "View Large Map"
 
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/edit_venue.php:202
 msgid "Address was not entered."
-msgstr ""
+msgstr "Address was not entered."
 
 #: ../includes/admin-files/venue-management/index.php:10
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/index.php:164
 msgid "Manage Venues"
-msgstr ""
+msgstr "Manage Venues"
 
 #: ../includes/admin-files/venue-management/index.php:12
 #: ../includes/admin-files/venue-management/index.php:161
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/index.php:153
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/index.php:167
 msgid "Add New Venue"
-msgstr ""
+msgstr "Add New Venue"
 
 #: ../includes/admin-files/venue-management/index.php:63
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/index.php:40
 msgid "Venues have been successfully deleted from the event."
-msgstr ""
+msgstr "Venues have been successfully deleted from the event."
 
 #: ../includes/admin-files/venue-management/index.php:84
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/index.php:71
 msgid "Locale"
-msgstr ""
+msgstr "Locale"
 
 #: ../includes/admin-files/venue-management/index.php:159
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/index.php:151
 msgid "Delete Venue"
-msgstr ""
+msgstr "Delete Venue"
 
 #: ../includes/admin-files/venue-management/index.php:174
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/venue_help.php:5
 msgid "Venue Locale/Region"
-msgstr ""
+msgstr "Venue Locale/Region"
 
 #: ../includes/admin-files/venue-management/index.php:177
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/venue_help.php:6
 msgid "This can be used to group venues together by locales/regions."
-msgstr ""
+msgstr "This can be used to group venues together by locales/regions."
 
 #: ../includes/admin-files/venue-management/index.php:180
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/venue_help.php:7
@@ -10224,16 +10366,21 @@ msgid ""
 "\"> Manage Locales/Regions</a> page it will be available to select on the "
 "'Add a Venue' page"
 msgstr ""
+"Once you have created a locale in the <a href=\"admin.php?page=event_locales"
+"\"> Manage Locales/Regions</a> page it will be available to select on the "
+"'Add a Venue' page"
 
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/venue_help.php:15
 msgid "Venue Manager Google Maps"
-msgstr ""
+msgstr "Venue Manager Google Maps"
 
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/venue_help.php:16
 msgid ""
 "Two options are provided for displaying Google maps from your venue "
 "addresses."
 msgstr ""
+"Two options are provided for displaying Google maps from your venue "
+"addresses."
 
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/venue_help.php:17
 msgid ""
@@ -10254,16 +10401,22 @@ msgid ""
 "address and allows you to enter a static Google map url that you can obtain "
 "from a google map lookup."
 msgstr ""
+"The second option might be useful if you need to get a more precise address "
+"or need to try and locate an address that might be different from the venue "
+"address and allows you to enter a static Google map URL that you can obtain "
+"from a Google map lookup."
 
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/venue_help.php:19
 msgid "To obtain your map url you need to visit"
-msgstr ""
+msgstr "To obtain your map url you need to visit"
 
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/venue_help.php:19
 msgid ""
 "Using the search box you can enter an address and refine it until you get "
 "the correct address displayed"
 msgstr ""
+"Using the search box you can enter an address and refine it until you get "
+"the correct address displayed"
 
 #: ../../../event-espresso/trunk/includes/admin-files/venue-management/venue_help.php:21
 msgid ""
@@ -10278,26 +10431,26 @@ msgstr ""
 #: ../includes/admin-reports/add_new_attendee.php:12
 #: ../../../event-espresso/trunk/includes/admin-reports/add_new_attendee.php:14
 msgid "Added Attendee to Database"
-msgstr ""
+msgstr "Added Attendee to Database"
 
 #: ../includes/admin-reports/add_new_attendee.php:95
 #: ../../../event-espresso/trunk/includes/admin-reports/add_new_attendee.php:91
 msgid "Start Date:"
-msgstr ""
+msgstr "Start Date:"
 
 #: ../includes/admin-reports/add_new_attendee.php:138
 #: ../../../event-espresso/trunk/includes/admin-reports/add_new_attendee.php:126
 msgid "Amount Paid:"
-msgstr ""
+msgstr "Amount Paid:"
 
 #: ../../../event-espresso/trunk/includes/admin-reports/add_new_attendee.php:130
 msgid "Override Price Selected Above?"
-msgstr ""
+msgstr "Override Price Selected Above?"
 
 #: ../includes/admin-reports/charts.php:14
 #: ../../../event-espresso/trunk/includes/admin-reports/charts.php:15
 msgid "Graphical reporting charts are now available in the premium versions."
-msgstr ""
+msgstr "Graphical reporting charts are now available in the premium versions."
 
 #: ../gateways/payment_gateways.php:51 ../includes/admin-reports/charts.php:14
 #: ../includes/admin-reports/event_list_attendees.php:74
@@ -10310,11 +10463,11 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin_screens/events/event_list.php:43
 #: ../../../event-espresso/trunk/includes/lite-files/event_management.php:13
 msgid "Upgrade Now!"
-msgstr ""
+msgstr "Upgrade Now!"
 
 #: ../../../event-espresso/trunk/includes/admin-reports/edit_attendee_record.php:366
 msgid "Attendee details saved for "
-msgstr ""
+msgstr "Attendee details saved for "
 
 #: ../../../event-espresso/trunk/includes/admin-reports/edit_attendee_record.php:375
 msgid ""
@@ -10327,48 +10480,48 @@ msgstr ""
 #: ../includes/admin-reports/edit_attendee_record.php:499
 #: ../../../event-espresso/trunk/includes/admin-reports/edit_attendee_record.php:382
 msgid "Registration Information"
-msgstr ""
+msgstr "Registration Information"
 
 #: ../includes/admin-reports/edit_attendee_record.php:500
 #: ../../../event-espresso/trunk/includes/admin-reports/edit_attendee_record.php:383
 msgid "Primary Attendee Record"
-msgstr ""
+msgstr "Primary Attendee Record"
 
 #: ../includes/functions/email.php:197 ../templates/shopping_cart.php:61
 #: ../../../event-espresso/trunk/includes/admin-reports/edit_attendee_record.php:388
 #: ../../../event-espresso/trunk/includes/functions/email.php:208
 #: ../../../event-espresso/trunk/templates/ticket_selector/ticket_selector_chart.template.php:54
 msgid "Time"
-msgstr ""
+msgstr "Time"
 
 #: ../includes/functions/export.php:284
 #: ../../../event-espresso/trunk/includes/admin-reports/edit_attendee_record.php:401
 #: ../../../event-espresso/trunk/includes/admin-reports/help.php:10
 #: ../../../event-espresso/trunk/includes/classes/EE_Export.class.php:595
 msgid "Price Option"
-msgstr ""
+msgstr "Price Option"
 
 #: ../../../event-espresso/trunk/includes/admin-reports/edit_attendee_record.php:406
 #: ../../../event-espresso/trunk/includes/admin-reports/help.php:23
 msgid "Standard Price Option"
-msgstr ""
+msgstr "Standard Price Option"
 
 #: ../../../event-espresso/trunk/includes/admin-reports/edit_attendee_record.php:411
 #: ../../../event-espresso/trunk/includes/admin-reports/help.php:36
 msgid "Member Price Option"
-msgstr ""
+msgstr "Member Price Option"
 
 #: ../includes/admin-reports/edit_attendee_record.php:582
 #: ../includes/process-registration/attendee_edit_record.php:318
 #: ../../../event-espresso/trunk/includes/admin-reports/edit_attendee_record.php:515
 #: ../../../event-espresso/trunk/includes/process-registration/attendee_edit_record.php:333
 msgid "Update Record"
-msgstr ""
+msgstr "Update Record"
 
 #: ../includes/admin-reports/edit_attendee_record.php:590
 #: ../../../event-espresso/trunk/includes/admin-reports/edit_attendee_record.php:529
 msgid "Additional Attendees"
-msgstr ""
+msgstr "Additional Attendees"
 
 #: ../includes/admin-reports/edit_attendee_record.php:611
 #: ../includes/admin-reports/event_list_attendees.php:315
@@ -10378,22 +10531,22 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin-reports/event_list_attendees.php:274
 #: ../../../event-espresso/trunk/includes/functions/main.php:8
 msgid "Edit Attendee"
-msgstr ""
+msgstr "Edit Attendee"
 
 #: ../includes/admin-reports/edit_attendee_record.php:631
 #: ../../../event-espresso/trunk/includes/admin-reports/edit_attendee_record.php:537
 msgid "Delete Attendee"
-msgstr ""
+msgstr "Delete Attendee"
 
 #: ../../../event-espresso/trunk/includes/admin-reports/edit_attendee_record.php:570
 msgid "Payment Information"
-msgstr ""
+msgstr "Payment Information"
 
 #: ../includes/functions/email.php:277
 #: ../../../event-espresso/trunk/includes/admin-reports/edit_attendee_record.php:579
 #: ../../../event-espresso/trunk/includes/functions/email.php:274
 msgid "View Your Payment Details"
-msgstr ""
+msgstr "View Your Payment Details"
 
 #: ../includes/admin-reports/edit_attendee_record.php:647
 #: ../includes/admin-reports/enter_attendee_payments.php:419
@@ -10402,7 +10555,7 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin-reports/enter_attendee_payments.php:216
 #: ../../../event-espresso/trunk/templates/payment_overview.php:34
 msgid "Payment Status:"
-msgstr ""
+msgstr "Payment Status:"
 
 #: ../includes/admin-reports/edit_attendee_record.php:648
 #: ../includes/admin-reports/event_list_attendees.php:305
@@ -10416,48 +10569,48 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin-reports/event_list_attendees.php:270
 #: ../../../event-espresso/trunk/includes/admin-reports/event_list_attendees.php:294
 msgid "Edit Payment"
-msgstr ""
+msgstr "Edit Payment"
 
 #: ../includes/process-registration/add_attendees_to_db.php:759
 #: ../templates/payment_overview.php:5 ../templates/payment_page.php:8
 #: ../../../event-espresso/trunk/includes/admin-reports/edit_attendee_record.php:586
 #: ../../../event-espresso/trunk/templates/payment_overview.php:8
 msgid "Payment Overview"
-msgstr ""
+msgstr "Payment Overview"
 
 #: ../includes/admin-reports/edit_attendee_record.php:657
 #: ../../../event-espresso/trunk/includes/admin-reports/edit_attendee_record.php:597
 #: ../../../event-espresso/trunk/includes/admin-reports/enter_attendee_payments.php:273
 msgid "Date Paid:"
-msgstr ""
+msgstr "Date Paid:"
 
 #: ../../../event-espresso/trunk/includes/admin-reports/edit_attendee_record.php:603
 msgid "Multiple Event Total:"
-msgstr ""
+msgstr "Multiple Event Total:"
 
 #: ../../../event-espresso/trunk/includes/admin-reports/edit_attendee_record.php:609
 msgid "This Registration Total:"
-msgstr ""
+msgstr "This Registration Total:"
 
 #: ../../../event-espresso/trunk/includes/admin-reports/edit_attendee_record.php:614
 msgid "This Attendee:"
-msgstr ""
+msgstr "This Attendee:"
 
 #: ../includes/admin-reports/edit_attendee_record.php:679
 #: ../../../event-espresso/trunk/includes/admin-reports/edit_attendee_record.php:622
 msgid "# Tickets:"
-msgstr ""
+msgstr "# Tickets:"
 
 #: ../gateways/invoice/template.php:181
 #: ../includes/admin-reports/edit_attendee_record.php:682
 #: ../../../event-espresso/trunk/includes/admin-reports/edit_attendee_record.php:625
 msgid "Total:"
-msgstr ""
+msgstr "Total:"
 
 #: ../../../event-espresso/trunk/includes/admin-reports/edit_attendee_record.php:655
 #: ../../../event-espresso/trunk/includes/admin-reports/enter_attendee_payments.php:373
 msgid "Back to List"
-msgstr ""
+msgstr "Back to List"
 
 #: ../../../event-espresso/trunk/includes/admin-reports/enter_attendee_payments.php:98
 msgid "Invoice Sent"
@@ -10547,36 +10700,36 @@ msgstr ""
 #: ../includes/event-management/edit_event.php:730
 #: ../../../event-espresso/trunk/includes/admin-reports/enter_attendee_payments.php:304
 msgid "Use a "
-msgstr ""
+msgstr "Use a "
 
 #: ../includes/admin-reports/enter_attendee_payments.php:534
 #: ../includes/event-management/add_new_event.php:581
 #: ../includes/event-management/edit_event.php:732
 #: ../../../event-espresso/trunk/includes/admin-reports/enter_attendee_payments.php:306
 msgid "pre-existing email"
-msgstr ""
+msgstr "pre-existing email"
 
 #: ../includes/admin-reports/enter_attendee_payments.php:540
 #: ../includes/event-management/add_new_event.php:587
 #: ../includes/event-management/edit_event.php:738
 #: ../../../event-espresso/trunk/includes/admin-reports/enter_attendee_payments.php:312
 msgid "Create a custom email:"
-msgstr ""
+msgstr "Create a custom email:"
 
 #: ../includes/admin-reports/enter_attendee_payments.php:543
 #: ../../../event-espresso/trunk/includes/admin-reports/enter_attendee_payments.php:315
 msgid "Invoice Subject"
-msgstr ""
+msgstr "Invoice Subject"
 
 #: ../includes/admin-reports/enter_attendee_payments.php:545
 #: ../../../event-espresso/trunk/includes/admin-reports/enter_attendee_payments.php:317
 msgid "Payment Reminder for [event]"
-msgstr ""
+msgstr "Payment Reminder for [event]"
 
 #: ../includes/admin-reports/enter_attendee_payments.php:549
 #: ../../../event-espresso/trunk/includes/admin-reports/enter_attendee_payments.php:321
 msgid "Message:"
-msgstr ""
+msgstr "Message:"
 
 #: ../includes/admin-reports/enter_attendee_payments.php:553
 #: ../../../event-espresso/trunk/includes/admin-reports/enter_attendee_payments.php:325
@@ -10585,55 +10738,58 @@ msgid ""
 "payment of [cost] for [event_link].</p> <p>Please visit [payment_url] to "
 "view your payment options.</p><p>[invoice_link]</p><p>Sincerely,<br />"
 msgstr ""
+"Dear [fname] [lname], <p>Our records show that we have not received your "
+"payment of [cost] for [event_link].</p> <p>Please visit [payment_url] to "
+"view your payment options.</p><p>[invoice_link]</p><p>Sincerely,<br />"
 
 #: ../includes/admin-reports/enter_attendee_payments.php:582
 #: ../../../event-espresso/trunk/includes/admin-reports/enter_attendee_payments.php:355
 msgid "Attendee approved?"
-msgstr ""
+msgstr "Attendee approved?"
 
 #: ../includes/admin-reports/enter_attendee_payments.php:589
 #: ../../../event-espresso/trunk/includes/admin-reports/enter_attendee_payments.php:362
 msgid "(If not approved then invoice will not be sent.)"
-msgstr ""
+msgstr "(If not approved then invoice will not be sent.)"
 
 #: ../../../event-espresso/trunk/includes/admin-reports/enter_attendee_payments.php:396
 msgid "No transaction detials available at this time."
-msgstr ""
+msgstr "No transaction details available at this time."
 
 #: ../includes/admin-reports/event_list_attendees.php:27
 #: ../../../event-espresso/trunk/includes/admin-reports/event_list_attendees.php:19
 msgid "Customer(s) have been successfully deleted from the event."
-msgstr ""
+msgstr "Customer(s) have been successfully deleted from the event."
 
 #: ../includes/admin-reports/event_list_attendees.php:49
 #: ../../../event-espresso/trunk/includes/admin-reports/event_list_attendees.php:48
 msgid "Scanned tickets cannot be redeemed/un-redeemed here."
-msgstr ""
+msgstr "Scanned tickets cannot be redeemed/un-redeemed here."
 
 #: ../includes/admin-reports/event_list_attendees.php:60
 #: ../../../event-espresso/trunk/includes/admin-reports/event_list_attendees.php:56
 msgid "Customer(s) attendance data successfully updated for this event."
-msgstr ""
+msgstr "Customer(s) attendance data successfully updated for this event."
 
 #: ../includes/admin-reports/event_list_attendees.php:74
 #: ../../../event-espresso/trunk/includes/admin-reports/event_list_attendees.php:93
 msgid "Advanced filters are available in the premium versions."
-msgstr ""
+msgstr "Advanced filters are available in the premium versions."
 
 #: ../includes/admin-reports/event_list_attendees.php:103
 #: ../../../event-espresso/trunk/includes/admin-reports/event_list_attendees.php:121
 msgid "Attendee Name"
-msgstr ""
+msgstr "Attendee Name"
 
 #: ../includes/admin-reports/event_list_attendees.php:106
 #: ../includes/functions/export.php:284
 #: ../../../event-espresso/trunk/includes/classes/EE_Export.class.php:595
 msgid "Reg ID"
-msgstr ""
+msgstr "Reg ID"
 
 #: ../includes/admin-reports/event_list_attendees.php:109
 msgid "Registered"
-msgstr ""
+msgstr "Registered"
 
 #: ../includes/admin-reports/event_list_attendees.php:112
 #: ../includes/event-management/add_new_event.php:230
@@ -10643,17 +10799,17 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin-reports/event_list_attendees.php:133
 #: ../../../event-espresso/trunk/includes/admin_screens/events/event_functions.php:162
 msgid "Event Title"
-msgstr ""
+msgstr "Event Title"
 
 #: ../includes/admin-reports/event_list_attendees.php:115
 #: ../includes/functions/export.php:284
 #: ../../../event-espresso/trunk/includes/classes/EE_Export.class.php:595
 msgid "Event Time"
-msgstr ""
+msgstr "Event Time"
 
 #: ../includes/admin-reports/event_list_attendees.php:123
 msgid "Option"
-msgstr ""
+msgstr "Option"
 
 #: ../includes/admin-reports/event_list_attendees.php:126
 #: ../../../event-espresso/trunk/includes/admin-files/email-manager/add_new_email.php:6
@@ -10662,39 +10818,39 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin-reports/event_list_attendees.php:224
 #: ../../../event-espresso/trunk/includes/classes/EE_Export.class.php:595
 msgid "Payment"
-msgstr ""
+msgstr "Payment"
 
 #: ../includes/admin-reports/event_list_attendees.php:132
 msgid "Coupon"
-msgstr ""
+msgstr "Coupon"
 
 #: ../includes/admin-reports/event_list_attendees.php:135
 #: ../includes/functions/export.php:284
 #: ../../../event-espresso/trunk/includes/classes/EE_Export.class.php:595
 msgid "Transaction ID"
-msgstr ""
+msgstr "Transaction ID"
 
 #: ../includes/admin-reports/event_list_attendees.php:267
 #: ../../../event-espresso/trunk/includes/admin-reports/event_list_attendees.php:197
 msgid "Total Attendees"
-msgstr ""
+msgstr "Total Attendees"
 
 #: ../../../event-espresso/trunk/gateways/Invoice/lib/templates/index.php:107
 #: ../../../event-espresso/trunk/gateways/Invoice/lib/templates/invoice_body.template.php:78
 #: ../../../event-espresso/trunk/includes/admin-reports/event_list_attendees.php:224
 msgid "Attendee"
-msgstr ""
+msgstr "Attendee"
 
 #: ../includes/admin-reports/event_list_attendees.php:299
 #: ../../../event-espresso/trunk/includes/admin-reports/event_list_attendees.php:236
 msgid "View attendees for this event"
-msgstr ""
+msgstr "View attendees for this event"
 
 #: ../includes/admin-reports/event_list_attendees.php:317
 #: ../../../event-espresso/trunk/includes/admin-reports/event_list_attendees.php:277
 #: ../../../event-espresso/trunk/includes/admin-reports/event_list_attendees.php:278
 msgid "Resend Registration Details"
-msgstr ""
+msgstr "Resend Registration Details"
 
 #: ../includes/admin-reports/event_list_attendees.php:319
 #: ../includes/admin-reports/event_list_attendees.php:384
@@ -10703,20 +10859,20 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin-reports/event_list_attendees.php:361
 #: ../../../event-espresso/trunk/includes/admin-reports/event_list_attendees.php:362
 msgid "Download Invoice"
-msgstr ""
+msgstr "Download Invoice"
 
 #: ../includes/admin-reports/event_list_attendees.php:321
 #: ../../../event-espresso/trunk/includes/admin-reports/event_list_attendees.php:288
 #: ../../../event-espresso/trunk/includes/admin-reports/event_list_attendees.php:289
 msgid "Download Ticket"
-msgstr ""
+msgstr "Download Ticket"
 
 #: ../includes/admin-reports/event_list_attendees.php:332
 #: ../../../event-espresso/trunk/gateways/Paypal_Pro
 #: (1)/EE_Paypal_Pro.class.php:813
 #: ../../../event-espresso/trunk/includes/admin-reports/event_list_attendees.php:296
 msgid "Approved"
-msgstr ""
+msgstr "Approved"
 
 #: ../includes/admin-reports/event_list_attendees.php:337
 #: ../../../event-espresso/trunk/includes/admin-reports/event_list_attendees.php:298
@@ -10806,12 +10962,12 @@ msgstr ""
 #: ../includes/event-management/index.php:30
 #: ../../../event-espresso/trunk/includes/admin_screens/attendees.php:29
 msgid "Edit Attendee Data"
-msgstr ""
+msgstr "Edit Attendee Data"
 
 #: ../includes/event-management/index.php:33
 #: ../../../event-espresso/trunk/includes/admin_screens/attendees.php:32
 msgid "Edit Attendee Payment Record"
-msgstr ""
+msgstr "Edit Attendee Payment Record"
 
 #: ../includes/admin-reports/process_payments.php:99
 #: ../includes/event-management/edit_event.php:153
@@ -10822,16 +10978,16 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin_screens/events/event_functions.php:45
 #: ../../../event-espresso/trunk/includes/admin_screens/events/event_functions.php:46
 msgid "Email Event Attendees"
-msgstr ""
+msgstr "Email Event Attendees"
 
 #: ../includes/functions/admin.php:146
 msgid "No ID  Supplied"
-msgstr ""
+msgstr "No ID  Supplied"
 
 #: ../includes/functions/admin.php:1035
 #: ../../../event-espresso/trunk/includes/admin_screens/admin.php:550
 msgid "Email Confirmations"
-msgstr ""
+msgstr "Email Confirmations"
 
 #: ../includes/functions/admin.php:1038
 #: ../../../event-espresso/trunk/includes/admin_screens/admin.php:553
@@ -10845,55 +11001,59 @@ msgstr ""
 #: ../includes/functions/admin.php:1048
 #: ../../../event-espresso/trunk/includes/admin_screens/admin.php:563
 msgid "Sample Mail Send:"
-msgstr ""
+msgstr "Sample Mail Send:"
 
 #: ../../../event-espresso/trunk/includes/admin_screens/admin.php:666
 msgid ""
 "In order to function properly Event Espresso has added one or more pages "
 "with the corresponding shortcodes. Go to"
 msgstr ""
+"In order to function properly Event Espresso has added one or more pages "
+"with the corresponding shortcodes. Go to"
 
 #: ../../../event-espresso/trunk/includes/admin_screens/admin.php:666
 #: ../../../event-espresso/trunk/includes/admin_screens/admin.php:670
 msgid "Event Espresso Page Settings"
-msgstr ""
+msgstr "Event Espresso Page Settings"
 
 #: ../../../event-espresso/trunk/includes/admin_screens/admin.php:666
 msgid "to view the updated pages."
-msgstr ""
+msgstr "to view the updated pages."
 
 #: ../../../event-espresso/trunk/includes/admin_screens/admin.php:670
 msgid ""
 "A problem has been detected with one or more of your Event Espresso pages. "
 "Go to"
 msgstr ""
+"A problem has been detected with one or more of your Event Espresso pages. "
+"Go to"
 
 #: ../../../event-espresso/trunk/includes/admin_screens/admin.php:670
 msgid "to view your Event Espresso pages."
-msgstr ""
+msgstr "to view your Event Espresso pages."
 
 #: ../includes/functions/admin.php:1128 ../includes/functions/admin.php:1130
 #: ../../../event-espresso/trunk/includes/admin_screens/admin.php:676
 #: ../../../event-espresso/trunk/includes/admin_screens/admin.php:678
 msgid "Event Espresso attendee data needs to be updated. Please visit the "
-msgstr ""
+msgstr "Event Espresso attendee data needs to be updated. Please visit the "
 
 #: ../includes/functions/admin.php:1128 ../includes/functions/admin.php:1130
 #: ../../../event-espresso/trunk/includes/admin_screens/admin.php:676
 #: ../../../event-espresso/trunk/includes/admin_screens/admin.php:678
 msgid "Support page"
-msgstr ""
+msgstr "Support page"
 
 #: ../includes/functions/admin.php:1128 ../includes/functions/admin.php:1130
 #: ../../../event-espresso/trunk/includes/admin_screens/admin.php:676
 #: ../../../event-espresso/trunk/includes/admin_screens/admin.php:678
 msgid "to configure update the attendee information."
-msgstr ""
+msgstr "to configure update the attendee information."
 
 #: ../includes/functions/admin.php:1155
 #: ../../../event-espresso/trunk/includes/admin_screens/admin.php:703
 msgid "Assign a Waitlist Event? "
-msgstr ""
+msgstr "Assign a Waitlist Event? "
 
 #: ../includes/functions/admin.php:1156
 #: ../../../event-espresso/trunk/includes/admin_screens/admin.php:704
@@ -10993,60 +11153,60 @@ msgstr ""
 #: ../includes/functions/admin_menu.php:53
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:264
 msgid "Event Espresso - Promotional Codes"
-msgstr ""
+msgstr "Event Espresso - Promotional Codes"
 
 #: ../includes/functions/admin_menu.php:53
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:265
 msgid "Promotional Codes"
-msgstr ""
+msgstr "Promotional Codes"
 
 #: ../includes/functions/admin_menu.php:27
 msgid "Event Espresso - Seating Chart"
-msgstr ""
+msgstr "Event Espresso - Seating Chart"
 
 #: ../includes/functions/admin_menu.php:27
 #: ../../../espresso-permissions/trunk/espresso-permissions.php:625
 msgid "Seating Chart"
-msgstr ""
+msgstr "Seating Chart"
 
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:287
 msgid "Event Espresso - Management"
-msgstr ""
+msgstr "Event Espresso - Management"
 
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:288
 msgid "Management"
-msgstr ""
+msgstr "Management"
 
 #: ../includes/functions/admin_menu.php:63
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:296
 msgid "Event Espresso - Email Manager"
-msgstr ""
+msgstr "Event Espresso - Email Manager"
 
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:297
 msgid "Emails"
-msgstr ""
+msgstr "Emails"
 
 #: ../includes/functions/admin_menu.php:37
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:314
 msgid "Event Espresso - Staff Manager"
-msgstr ""
+msgstr "Event Espresso - Staff Manager"
 
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:315
 msgid "Staff"
-msgstr ""
+msgstr "Staff"
 
 #: ../includes/functions/admin_menu.php:32
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:323
 msgid "Event Espresso - Venue Manager"
-msgstr ""
+msgstr "Event Espresso - Venue Manager"
 
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:324
 msgid "Venues"
-msgstr ""
+msgstr "Venues"
 
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:337
 msgid "Event Espresso - Settings"
-msgstr ""
+msgstr "Event Espresso - Settings"
 
 #: ../espresso.php:721
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:338
@@ -11055,12 +11215,12 @@ msgstr ""
 #: ../../../espresso-calendar/trunk/espresso-calendar.php:112
 #: ../../../espresso-permissions/trunk/espresso-permissions.php:360
 msgid "Settings"
-msgstr ""
+msgstr "Settings"
 
 #: ../includes/functions/admin_menu.php:20
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:346
 msgid "Event Espresso - General Settings"
-msgstr ""
+msgstr "Event Espresso - General Settings"
 
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:347
 msgid "General"
@@ -11135,67 +11295,67 @@ msgstr ""
 
 #: ../includes/functions/admin_menu.php:137
 msgid "User Roles"
-msgstr ""
+msgstr "User Roles"
 
 #: ../includes/functions/admin_menu.php:140
 msgid "Event Espresso - Locales/Regions"
-msgstr ""
+msgstr "Event Espresso - Locales/Regions"
 
 #: ../includes/functions/admin_menu.php:140
 msgid "Locales/Regions"
-msgstr ""
+msgstr "Locales/Regions"
 
 #: ../includes/functions/admin_menu.php:142
 #: ../../../espresso-permissions-pro/trunk/espresso-permissions-pro.php:248
 msgid "Event Espresso - Regional Managers"
-msgstr ""
+msgstr "Event Espresso - Regional Managers"
 
 #: ../includes/functions/admin_menu.php:142
 msgid "Regional Managers"
-msgstr ""
+msgstr "Regional Managers"
 
 #: ../includes/functions/admin_menu.php:68
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:369
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:378
 msgid "Event Espresso - Template Settings"
-msgstr ""
+msgstr "Event Espresso - Template Settings"
 
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:370
 msgid "Templates"
-msgstr ""
+msgstr "Templates"
 
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:387
 msgid "Event Espresso - Map Settings"
-msgstr ""
+msgstr "Event Espresso - Map Settings"
 
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:388
 msgid "Maps"
-msgstr ""
+msgstr "Maps"
 
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:396
 msgid "Event Espresso - Ticket Settings"
-msgstr ""
+msgstr "Event Espresso - Ticket Settings"
 
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:397
 msgid "Tickets"
-msgstr ""
+msgstr "Tickets"
 
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:405
 msgid "Event Espresso - Certificate Templates"
-msgstr ""
+msgstr "Event Espresso - Certificate Templates"
 
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:406
 msgid "Certificates"
-msgstr ""
+msgstr "Certificates"
 
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:419
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:428
 msgid "Event Espresso - Marketplace"
-msgstr ""
+msgstr "Event Espresso - Marketplace"
 
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:429
 msgid "Marketplace"
-msgstr ""
+msgstr "Marketplace"
 
 #: ../includes/functions/admin_menu.php:127
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_menu.php:437
@@ -11295,7 +11455,7 @@ msgstr ""
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_screen.php:72
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_support.php:254
 msgid "Hire a Developer"
-msgstr ""
+msgstr "Hire a Developer"
 
 #: ../includes/admin_support.php:49 ../includes/admin_support.php:153
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_screen.php:73
@@ -11307,79 +11467,79 @@ msgstr "Favourite Theme Developers"
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_screen.php:74
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_support.php:251
 msgid "Recommended Plugins"
-msgstr ""
+msgstr "Recommended Plugins"
 
 #: ../includes/admin_support.php:52 ../includes/admin_support.php:216
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_screen.php:75
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_support.php:260
 msgid "Highly Recommended Themes"
-msgstr ""
+msgstr "Highly Recommended Themes"
 
 #: ../includes/admin_support.php:55 ../includes/admin_support.php:235
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_screen.php:76
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_support.php:263
 msgid "Other Resources"
-msgstr ""
+msgstr "Other Resources"
 
 #: ../includes/admin_support.php:58 ../includes/admin_support.php:254
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_screen.php:77
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_support.php:266
 #: ../../../event-espresso/trunk/includes/admin_screens/events/help.php:240
 msgid "Shortcodes"
-msgstr ""
+msgstr "Shortcodes"
 
 #: ../includes/admin_support.php:61 ../includes/admin_support.php:500
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_screen.php:78
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_support.php:269
 msgid "Important Information"
-msgstr ""
+msgstr "Important Information"
 
 #: ../includes/admin_support.php:64 ../includes/admin_support.php:607
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_screen.php:79
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_support.php:272
 msgid "Contact Support"
-msgstr ""
+msgstr "Contact Support"
 
 #: ../includes/admin_support.php:67 ../includes/admin_support.php:681
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_screen.php:80
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_support.php:275
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Frequently Asked Questions"
 
 #: ../includes/admin_support.php:70 ../includes/admin_support.php:751
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_screen.php:81
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_support.php:302
 msgid "Additional Information"
-msgstr ""
+msgstr "Additional Information"
 
 #: ../includes/admin-files/admin_addons.php:14
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_screen.php:84
 msgid "Recurring Events Manager"
-msgstr ""
+msgstr "Recurring Events Manager"
 
 #: ../includes/admin-files/admin_addons.php:35
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_screen.php:85
 msgid "Groupon Integration Module"
-msgstr ""
+msgstr "Groupon Integration Module"
 
 #: ../includes/admin-files/admin_addons.php:60
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_screen.php:86
 msgid "Members Integration Module"
-msgstr ""
+msgstr "Members Integration Module"
 
 #: ../includes/admin-files/admin_addons.php:85
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_screen.php:87
 msgid "Custom Files"
-msgstr ""
+msgstr "Custom Files"
 
 #: ../includes/functions/admin.php:890 ../includes/functions/admin.php:982
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_screen.php:145
 msgid "From the Blog"
-msgstr ""
+msgstr "From the Blog"
 
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_screen.php:150
 msgid "From the Forums"
-msgstr ""
+msgstr "From the Forums"
 
 #: ../../../event-espresso/trunk/includes/admin_screens/admin_screen.php:164
 msgid "Installation &amp; Usage Guide"
