@@ -18,9 +18,11 @@ Our language files are managed by a [GlotPress installation](http://eventespress
 
 #### Using these files
 
-There are two ways you can use these files. As mentioned above, the language files will automatically update with an update to Event Espresso. If you would like to update your language file to the latest version *before an update to Event Espresso is available*, you can do so by navigating to that language's branch and downloading the file, then upload via FTP to the `/event-espresso/languages` directory.
+There are two ways you can use these files. As mentioned above, the language files will automatically update with an update to Event Espresso. If you would like to update your language file to the latest version *before an update to Event Espresso is available*, you can do so by navigating to that language's .mo file and downloading the file, then upload via FTP to the `/event-espresso/languages` directory.
 
-If you would like to make modifications to the language file, e.g. to customize the text of a particular string, download the file as described, but upload the modified file to `/wp-content/uploads/espresso/languages`. You will be responsible for keeping your customized language file up-to-date.
+If you would like to make modifications to the language file, e.g. to customize the text of a particular string, download the file as described, but upload the modified file to `/wp-content/uploads/espresso/languages`. You will be responsible for keeping your customized language file up-to-date. 
+
+Updating language files requires a program like [Poedit](http://www.poedit.net/), and that you download the .po file. An .mo file (which is used by WordPress/Event Espresso) will be generated automatically when you save. You don't need to download the .mo file.
 
 These language files will work with both the free and premium versions of Event Espresso.
 
