@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Event Espresso package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2013-03-01 15:24-0700\n"
+"PO-Revision-Date: 2013-03-01 15:27-0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -11,7 +11,13 @@ msgstr ""
 "Project-Id-Version: Event Espresso\n"
 "POT-Creation-Date: \n"
 "Last-Translator: Chris Reynolds <chris@jazzsequence.com>\n"
-"Language-Team: \n"
+"Language-Team: David Kartuzinski, DJP, Jessica, Martin Casteres "
+"<support@eventespresso.com>\n"
+"Language: fr_FR\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
 
 #: ../../../plugins/espresso-calendar/calendar_admin_classic.php:299
 #: ../../../plugins/espresso-calendar/calendar_admin_classic.php:304
