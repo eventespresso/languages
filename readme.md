@@ -8,7 +8,7 @@ This is the repository for all the **[Event Espresso](http://eventespresso.com)*
 
 ### Description
 
-Starting in Event Espresso 3.1.30, the plugin will load all language files from the relevant language branch dynamically based on your `define('WP_LANG,'');` setting in `wp-config.php`. On an update, Event Espresso will download the latest version of the language file from the repository automatically.
+Starting in Event Espresso 3.1.30, the plugin will load all language files from the relevant language branch dynamically based on your `define('WPLANG,'');` setting in `wp-config.php`. On an update, Event Espresso will download the latest version of the language file from the repository automatically.
 
 #### Becoming a translator
 
